@@ -1,0 +1,402 @@
+[
+    {
+        "question": "Who is known as the 'Queen of Pop'?",
+        "answer1": "Madonna",
+        "answer2": "Beyoncé",
+        "answer3": "Lady Gaga",
+        "answer4": "Rihanna",
+        "correct_answer": 1
+    },
+    {
+        "question": "In which year did The Beatles release their album 'Abbey Road'?",
+        "answer1": "1965",
+        "answer2": "1967",
+        "answer3": "1969",
+        "answer4": "1971",
+        "correct_answer": 3
+    },
+    {
+        "question": "Who wrote the song 'Like a Rolling Stone'?",
+        "answer1": "Bob Dylan",
+        "answer2": "The Rolling Stones",
+        "answer3": "Bruce Springsteen",
+        "answer4": "David Bowie",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the real name of the rapper Eminem?",
+        "answer1": "Marshall Mathers",
+        "answer2": "Christopher Wallace",
+        "answer3": "Calvin Broadus",
+        "answer4": "Jay-Z",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which female artist is known for her hits 'Hello' and 'Rolling in the Deep'?",
+        "answer1": "Adele",
+        "answer2": "Taylor Swift",
+        "answer3": "Beyoncé",
+        "answer4": "Rihanna",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the name of Michael Jackson's best-selling album?",
+        "answer1": "Thriller",
+        "answer2": "Bad",
+        "answer3": "Off the Wall",
+        "answer4": "Dangerous",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who is the lead singer of the rock band Queen?",
+        "answer1": "Freddie Mercury",
+        "answer2": "David Bowie",
+        "answer3": "Mick Jagger",
+        "answer4": "Roger Daltrey",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which country is the origin of the flamenco music genre?",
+        "answer1": "Spain",
+        "answer2": "Argentina",
+        "answer3": "Cuba",
+        "answer4": "Brazil",
+        "correct_answer": 1
+    },
+    {
+        "question": "What instrument did jazz musician Miles Davis primarily play?",
+        "answer1": "Trumpet",
+        "answer2": "Saxophone",
+        "answer3": "Piano",
+        "answer4": "Drums",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who is known as the 'King of Pop'?",
+        "answer1": "Elvis Presley",
+        "answer2": "Michael Jackson",
+        "answer3": "Prince",
+        "answer4": "James Brown",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which British rock band performed at the halftime show of Super Bowl 50 in 2016?",
+        "answer1": "The Rolling Stones",
+        "answer2": "The Who",
+        "answer3": "Coldplay",
+        "answer4": "U2",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the title of Beyoncé's visual album released in 2016?",
+        "answer1": "Lemonade",
+        "answer2": "Formation",
+        "answer3": "Drunk in Love",
+        "answer4": "B'Day",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who wrote and performed the song 'Purple Haze'?",
+        "answer1": "Jimi Hendrix",
+        "answer2": "Eric Clapton",
+        "answer3": "Jimmy Page",
+        "answer4": "Stevie Ray Vaughan",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which album includes the hit songs 'Bohemian Rhapsody' and 'Somebody to Love'?",
+        "answer1": "A Night at the Opera",
+        "answer2": "A Day at the Races",
+        "answer3": "News of the World",
+        "answer4": "Sheer Heart Attack",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who is the lead vocalist of the rock band U2?",
+        "answer1": "Bono",
+        "answer2": "The Edge",
+        "answer3": "Adam Clayton",
+        "answer4": "Larry Mullen Jr.",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the real name of the rapper Drake?",
+        "answer1": "Aubrey Graham",
+        "answer2": "Dwayne Carter",
+        "answer3": "Jayceon Taylor",
+        "answer4": "Sean Combs",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which female artist released the album 'Jagged Little Pill' in 1995?",
+        "answer1": "Celine Dion",
+        "answer2": "Alanis Morissette",
+        "answer3": "Shania Twain",
+        "answer4": "Britney Spears",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the real name of the rapper Jay-Z?",
+        "answer1": "Shawn Carter",
+        "answer2": "Dwayne Carter",
+        "answer3": "Kanye West",
+        "answer4": "Nasir Jones",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who is the lead guitarist of the rock band Led Zeppelin?",
+        "answer1": "Jimmy Page",
+        "answer2": "Eric Clapton",
+        "answer3": "Jimi Hendrix",
+        "answer4": "Angus Young",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the real name of the rapper Snoop Dogg?",
+        "answer1": "Calvin Broadus",
+        "answer2": "Andre Young",
+        "answer3": "Marshall Mathers",
+        "answer4": "Dwayne Carter",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which singer is known for hits like 'Piano Man' and 'Uptown Girl'?",
+        "answer1": "Billy Joel",
+        "answer2": "Elton John",
+        "answer3": "John Lennon",
+        "answer4": "Paul McCartney",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who is known as the 'Godfather of Soul'?",
+        "answer1": "Ray Charles",
+        "answer2": "Sam Cooke",
+        "answer3": "James Brown",
+        "answer4": "Otis Redding",
+        "correct_answer": 3
+    },
+    {
+        "question": "In which year did Elvis Presley pass away?",
+        "answer1": "1977",
+        "answer2": "1980",
+        "answer3": "1969",
+        "answer4": "1983",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who is known for hits like 'Dancing in the Dark' and 'Born to Run'?",
+        "answer1": "Bob Dylan",
+        "answer2": "Bruce Springsteen",
+        "answer3": "Tom Petty",
+        "answer4": "Neil Young",
+        "correct_answer": 2
+    },
+    {
+        "question": "Who is known as the 'Material Girl'?",
+        "answer1": "Madonna",
+        "answer2": "Cher",
+        "answer3": "Lady Gaga",
+        "answer4": "Rihanna",
+        "correct_answer": 1
+    },
+    {
+        "question": "In which year did Michael Jackson release the album 'Bad'?",
+        "answer1": "1985",
+        "answer2": "1987",
+        "answer3": "1989",
+        "answer4": "1991",
+        "correct_answer": 3
+    },
+    {
+        "question": "Who wrote the song 'Imagine'?",
+        "answer1": "John Lennon",
+        "answer2": "Paul McCartney",
+        "answer3": "George Harrison",
+        "answer4": "Ringo Starr",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the real name of the rapper Kendrick Lamar?",
+        "answer1": "Kendrick Duckworth",
+        "answer2": "Aubrey Graham",
+        "answer3": "Sean Combs",
+        "answer4": "Calvin Broadus",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which female artist is known for her hits 'Wrecking Ball' and 'Party in the USA'?",
+        "answer1": "Adele",
+        "answer2": "Taylor Swift",
+        "answer3": "Beyoncé",
+        "answer4": "Miley Cyrus",
+        "correct_answer": 4
+    },
+    {
+        "question": "What is the name of Bob Marley's backing band?",
+        "answer1": "The Wailers",
+        "answer2": "The Maytals",
+        "answer3": "The Skatalites",
+        "answer4": "The Upsetters",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who is known as the 'Rocket Man'?",
+        "answer1": "Elton John",
+        "answer2": "David Bowie",
+        "answer3": "Billy Joel",
+        "answer4": "Paul McCartney",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which country is the origin of the reggae music genre?",
+        "answer1": "Jamaica",
+        "answer2": "Trinidad and Tobago",
+        "answer3": "Cuba",
+        "answer4": "Barbados",
+        "correct_answer": 1
+    },
+    {
+        "question": "What instrument did jazz musician Charlie Parker primarily play?",
+        "answer1": "Saxophone",
+        "answer2": "Trumpet",
+        "answer3": "Piano",
+        "answer4": "Drums",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who is known as the 'Queen of Soul'?",
+        "answer1": "Diana Ross",
+        "answer2": "Etta James",
+        "answer3": "Aretha Franklin",
+        "answer4": "Whitney Houston",
+        "correct_answer": 3
+    },
+    {
+        "question": "Which British rock band performed at the halftime show of Super Bowl XLIX in 2015?",
+        "answer1": "The Rolling Stones",
+        "answer2": "The Who",
+        "answer3": "Coldplay",
+        "answer4": "U2",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the title of Taylor Swift's debut album?",
+        "answer1": "Fearless",
+        "answer2": "Speak Now",
+        "answer3": "Taylor Swift",
+        "answer4": "Red",
+        "correct_answer": 3
+    },
+    {
+        "question": "Who wrote and performed the song 'Blowin' in the Wind'?",
+        "answer1": "Bob Dylan",
+        "answer2": "John Lennon",
+        "answer3": "Simon & Garfunkel",
+        "answer4": "Johnny Cash",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which album includes the hit songs 'Another One Bites the Dust' and 'Crazy Little Thing Called Love'?",
+        "answer1": "A Night at the Opera",
+        "answer2": "A Day at the Races",
+        "answer3": "The Game",
+        "answer4": "News of the World",
+        "correct_answer": 3
+    },
+    {
+        "question": "Who is the lead vocalist of the rock band Aerosmith?",
+        "answer1": "Steven Tyler",
+        "answer2": "Joe Perry",
+        "answer3": "Tom Hamilton",
+        "answer4": "Brad Whitford",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the real name of the rapper Nicki Minaj?",
+        "answer1": "Onika Maraj",
+        "answer2": "Robyn Fenty",
+        "answer3": "Belcalis Almanzar",
+        "answer4": "Amethyst Kelly",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which male artist released the album 'Dark Side of the Moon'?",
+        "answer1": "David Bowie",
+        "answer2": "Roger Waters",
+        "answer3": "Elton John",
+        "answer4": "Paul McCartney",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the real name of the rapper Kanye West?",
+        "answer1": "Kanye West",
+        "answer2": "Sean Combs",
+        "answer3": "Aubrey Graham",
+        "answer4": "Dwayne Carter",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who released the album 'Jazz' in 1978?",
+        "answer1": "Queen",
+        "answer2": "Led Zeppelin",
+        "answer3": "The Rolling Stones",
+        "answer4": "Pink Floyd",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the real name of the rapper Lil Wayne?",
+        "answer1": "Dwayne Carter",
+        "answer2": "Aubrey Graham",
+        "answer3": "Calvin Broadus",
+        "answer4": "Sean Combs",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which female artist is known for hits like 'I Will Always Love You' and 'I Wanna Dance with Somebody'?",
+        "answer1": "Mariah Carey",
+        "answer2": "Celine Dion",
+        "answer3": "Whitney Houston",
+        "answer4": "Beyoncé",
+        "correct_answer": 3
+    },
+    {
+        "question": "Who is known as the 'Hardest-Working Man in Show Business'?",
+        "answer1": "Marvin Gaye",
+        "answer2": "James Brown",
+        "answer3": "Otis Redding",
+        "answer4": "Sam Cooke",
+        "correct_answer": 2
+    },
+    {
+        "question": "In which year did John Lennon release the album 'Imagine'?",
+        "answer1": "1971",
+        "answer2": "1973",
+        "answer3": "1975",
+        "answer4": "1977",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who is known for hits like 'Born in the U.S.A.' and 'Dancing in the Dark'?",
+        "answer1": "Bruce Springsteen",
+        "answer2": "Bob Dylan",
+        "answer3": "Tom Petty",
+        "answer4": "Neil Young",
+        "correct_answer": 1
+    },
+    {
+        "question": "What heavy rock festival takes place every year at Donnington Park?",
+        "answer1": "Rock im Park",
+        "answer2": "Tomorrowland",
+        "answer3": "Download",
+        "answer4": "Wacken",
+        "correct_answer": 3
+    },
+    {
+        "question": "Which rapper performed upside down at the Super Bowl LVI halftime show?",
+        "answer1": "Eminem",
+        "answer2": "Snoop Dogg",
+        "answer3": "Drake",
+        "answer4": "50 Cent",
+        "correct_answer": 4
+    }
+]

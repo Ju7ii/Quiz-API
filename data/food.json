@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "answer1": "Tomatoes",
+        "answer2": "Avocado",
+        "answer3": "Onions",
+        "answer4": "Cilantro",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which type of pasta is shaped like small rice grains?",
+        "answer1": "Fusilli",
+        "answer2": "Orzo",
+        "answer3": "Pennerigoni",
+        "answer4": "Farfalle",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the Japanese dish consisting of thinly sliced raw fish?",
+        "answer1": "Sushi",
+        "answer2": "Sashimi",
+        "answer3": "Miso",
+        "answer4": "Tempura",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which fruit is known as the 'king of fruits' and has a strong odor?",
+        "answer1": "Apple",
+        "answer2": "Mango",
+        "answer3": "Banana",
+        "answer4": "Grapes",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the main ingredient in the Indian dish 'dal makhani'?",
+        "answer1": "Lentils",
+        "answer2": "Chickpeas",
+        "answer3": "Rice",
+        "answer4": "Potatoes",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which Italian city is famous for its prosciutto and Parmesan cheese?",
+        "answer1": "Milan",
+        "answer2": "Rome",
+        "answer3": "Bologna",
+        "answer4": "Naples",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the name of the traditional Scottish dish made from sheep's stomach stuffed with minced meat and oats?",
+        "answer1": "Haggis",
+        "answer2": "Black Pudding",
+        "answer3": "Scotch Egg",
+        "answer4": "Neeps and Tatties",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which nut is used to make marzipan?",
+        "answer1": "Peanut",
+        "answer2": "Almond",
+        "answer3": "Cashew",
+        "answer4": "Walnut",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the national dish of Japan?",
+        "answer1": "Sushi",
+        "answer2": "Ramen",
+        "answer3": "Tempura",
+        "answer4": "Sashimi",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which country is famous for its spicy cuisine, including dishes like kimchi and bulgogi?",
+        "answer1": "China",
+        "answer2": "Japan",
+        "answer3": "South Korea",
+        "answer4": "Thailand",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the main ingredient in the Mexican dish 'chiles en nogada'?",
+        "answer1": "Chicken",
+        "answer2": "Pork",
+        "answer3": "Beef",
+        "answer4": "Poblano peppers",
+        "correct_answer": 4
+    },
+    {
+        "question": "Which spice is derived from the Crocus sativus flower and is known for its vibrant color?",
+        "answer1": "Turmeric",
+        "answer2": "Cumin",
+        "answer3": "Saffron",
+        "answer4": "Paprika",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the main ingredient in the Middle Eastern dish 'hummus'?",
+        "answer1": "Chickpeas",
+        "answer2": "Lentils",
+        "answer3": "Black beans",
+        "answer4": "Kidney beans",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which type of pasta is shaped like small rice grains?",
+        "answer1": "Fusilli",
+        "answer2": "Orzo",
+        "answer3": "Pennerigoni",
+        "answer4": "Farfalle",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the traditional Russian soup made with beets, cabbage, and meat, often garnished with sour cream?",
+        "answer1": "Borscht",
+        "answer2": "Pelmeni",
+        "answer3": "Blintz",
+        "answer4": "Plov",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which fruit is known as the 'king of fruits' and has a spiky outer shell?",
+        "answer1": "Pineapple",
+        "answer2": "Durian",
+        "answer3": "Mango",
+        "answer4": "Papaya",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the main ingredient in the French dish 'coq au vin'?",
+        "answer1": "Beef",
+        "answer2": "Chicken",
+        "answer3": "Lamb",
+        "answer4": "Pork",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which country is known for its traditional dish 'poutine,' consisting of fries topped with cheese curds and gravy?",
+        "answer1": "Italy",
+        "answer2": "Canada",
+        "answer3": "France",
+        "answer4": "United States",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the primary ingredient in the Indian dish 'saag paneer'?",
+        "answer1": "Paneer",
+        "answer2": "Chicken",
+        "answer3": "Lentils",
+        "answer4": "Potatoes",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which seafood is a key ingredient in traditional Spanish paella?",
+        "answer1": "Shrimp",
+        "answer2": "Lobster",
+        "answer3": "Clams",
+        "answer4": "Mussels",
+        "correct_answer": 4
+    },
+    {
+        "question": "What is the main ingredient in the Vietnamese dish 'pho'?",
+        "answer1": "Rice noodles",
+        "answer2": "Wheat noodles",
+        "answer3": "Egg noodles",
+        "answer4": "Udon noodles",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which nut is used in the traditional Middle Eastern sweet known as 'baklava'?",
+        "answer1": "Walnut",
+        "answer2": "Almond",
+        "answer3": "Pistachio",
+        "answer4": "Cashew",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the Italian dish consisting of thinly sliced raw meat or fish, typically served as an appetizer?",
+        "answer1": "Lasagna",
+        "answer2": "Bruschetta",
+        "answer3": "Carpaccio",
+        "answer4": "Tiramisu",
+        "correct_answer": 3
+    },
+    {
+        "question": "Which vegetable is the main ingredient in the Indian dish 'aloo gobi'?",
+        "answer1": "Cauliflower",
+        "answer2": "Spinach",
+        "answer3": "Potatoes",
+        "answer4": "Eggplant",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the primary ingredient in the Mexican dish 'tamales'?",
+        "answer1": "Rice",
+        "answer2": "Corn",
+        "answer3": "Wheat",
+        "answer4": "Barley",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the traditional Japanese soup made with miso paste and dashi broth?",
+        "answer1": "Ramen",
+        "answer2": "Udon",
+        "answer3": "Soba",
+        "answer4": "Miso soup",
+        "correct_answer": 4
+    },
+    {
+        "question": "Which fruit is known as the 'queen of fruits' and has a hard, spiky shell?",
+        "answer1": "Pomegranate",
+        "answer2": "Dragon fruit",
+        "answer3": "Jackfruit",
+        "answer4": "Passion fruit",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the primary ingredient in the traditional Mexican dish 'guacamole'?",
+        "answer1": "Tomatoes",
+        "answer2": "Avocado",
+        "answer3": "Onions",
+        "answer4": "Cilantro",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which type of pasta is shaped like small rice grains?",
+        "answer1": "Fusilli",
+        "answer2": "Orzo",
+        "answer3": "Cavatelli",
+        "answer4": "Farfalle",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the traditional Korean side dish made from fermented vegetables, usually cabbage or radishes?",
+        "answer1": "Sushi",
+        "answer2": "Kimchi",
+        "answer3": "Bibimbap",
+        "answer4": "Banchan",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which French cheese is known for its strong aroma and flavor?",
+        "answer1": "Brie",
+        "answer2": "Camembert",
+        "answer3": "Roquefort",
+        "answer4": "Gruyère",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the main ingredient in the traditional Indian dish 'samosa'?",
+        "answer1": "Potatoes",
+        "answer2": "Chickpeas",
+        "answer3": "Lentils",
+        "answer4": "Spinach",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which nut is used to make traditional pesto sauce?",
+        "answer1": "Pine nut",
+        "answer2": "Walnut",
+        "answer3": "Almond",
+        "answer4": "Cashew",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the national dish of Thailand, known for its combination of sweet, sour, salty, and spicy flavors?",
+        "answer1": "Pad Thai",
+        "answer2": "Green Curry",
+        "answer3": "Tom Yum Goong",
+        "answer4": "Som Tum",
+        "correct_answer": 4
+    },
+    {
+        "question": "Which type of bread is traditionally used to make a classic BLT sandwich?",
+        "answer1": "Baguette",
+        "answer2": "Sourdough",
+        "answer3": "Ciabatta",
+        "answer4": "White bread",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the main ingredient in the Spanish dish 'paella'?",
+        "answer1": "Chicken",
+        "answer2": "Shrimp",
+        "answer3": "Mussels",
+        "answer4": "Saffron-infused rice",
+        "correct_answer": 4
+    },
+    {
+        "question": "Which spice is often used in Indian cuisine and is known for its warm, earthy flavor?",
+        "answer1": "Cumin",
+        "answer2": "Coriander",
+        "answer3": "Cardamom",
+        "answer4": "Turmeric",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the traditional Brazilian dish made with black beans, pork, and sausage, usually served with rice?",
+        "answer1": "Feijoada",
+        "answer2": "Churrasco",
+        "answer3": "Moqueca",
+        "answer4": "Coxinha",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which vegetable is the primary ingredient in the Middle Eastern dish 'baba ganoush'?",
+        "answer1": "Eggplant",
+        "answer2": "Zucchini",
+        "answer3": "Bell pepper",
+        "answer4": "Tomato",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the traditional Turkish dish made with minced meat and spices, usually grilled on a skewer?",
+        "answer1": "Falafel",
+        "answer2": "Kebab",
+        "answer3": "Dolma",
+        "answer4": "Manti",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which Italian pasta dish is typically made with eggs, cheese, bacon, and black pepper?",
+        "answer1": "Carbonara",
+        "answer2": "Bolognese",
+        "answer3": "Marinara",
+        "answer4": "Alfredo",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the main ingredient in the traditional Middle Eastern dish 'falafel'?",
+        "answer1": "Chickpeas",
+        "answer2": "Lentils",
+        "answer3": "Black beans",
+        "answer4": "Kidney beans",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which fruit is known as the 'king of fruits' and has a spiky outer shell?",
+        "answer1": "Pineapple",
+        "answer2": "Durian",
+        "answer3": "Mango",
+        "answer4": "Papaya",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the main ingredient in the Japanese dish 'tempura'?",
+        "answer1": "Soy sauce",
+        "answer2": "Seaweed",
+        "answer3": "Batter-fried vegetables or seafood",
+        "answer4": "Rice",
+        "correct_answer": 3
+    },
+    {
+        "question": "Which type of pasta is shaped like small rice grains?",
+        "answer1": "Fusilli",
+        "answer2": "Orzo",
+        "answer3": "Cavatelli",
+        "answer4": "Farfalle",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the main ingredient in the Indian dish 'biryani'?",
+        "answer1": "Rice",
+        "answer2": "Chicken",
+        "answer3": "Lamb",
+        "answer4": "Potatoes",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which type of bread is commonly used to make a classic Reuben sandwich?",
+        "answer1": "Rye bread",
+        "answer2": "Baguette",
+        "answer3": "White bread",
+        "answer4": "Ciabatta",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the national dish of Italy, consisting of thin layers of pasta, sauce, and cheese?",
+        "answer1": "Lasagna",
+        "answer2": "Pizza",
+        "answer3": "Ravioli",
+        "answer4": "Spaghetti",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which spice is often used in Caribbean cuisine and is made from the dried, ground seeds of a fruit?",
+        "answer1": "Cumin",
+        "answer2": "Coriander",
+        "answer3": "Allspice",
+        "answer4": "Turmeric",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the primary ingredient in the Mexican dish 'tostadas'?",
+        "answer1": "Tortillas",
+        "answer2": "Rice",
+        "answer3": "Beans",
+        "answer4": "Cheese",
+        "correct_answer": 1
+    }
+]

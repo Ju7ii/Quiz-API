@@ -1,0 +1,402 @@
+[
+    {
+        "question": "Who is the co-founder of Microsoft Corporation?",
+        "answer1": "Steve Jobs",
+        "answer2": "Bill Gates",
+        "answer3": "Mark Zuckerberg",
+        "answer4": "Elon Musk",
+        "correct_answer": 2
+    },
+    {
+        "question": "What does CPU stand for?",
+        "answer1": "Central Processing Unit",
+        "answer2": "Computer Personal Unit",
+        "answer3": "Central Processor Unit",
+        "answer4": "Central Personal Unit",
+        "correct_answer": 1
+    },
+    {
+        "question": "In computer science, what does the acronym 'HTML' stand for?",
+        "answer1": "HyperText Markup Language",
+        "answer2": "Hyperlink and Text Markup Language",
+        "answer3": "Home Tool Markup Language",
+        "answer4": "HyperText and Multimedia Language",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who is known as the 'Father of the World Wide Web'?",
+        "answer1": "Bill Gates",
+        "answer2": "Tim Berners-Lee",
+        "answer3": "Steve Jobs",
+        "answer4": "Mark Zuckerberg",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the programming language developed by Apple for iOS and macOS app development?",
+        "answer1": "Java",
+        "answer2": "Swift",
+        "answer3": "C++",
+        "answer4": "Python",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which company developed the first commercially successful personal computer?",
+        "answer1": "IBM",
+        "answer2": "Microsoft",
+        "answer3": "Apple",
+        "answer4": "Commodore",
+        "correct_answer": 4
+    },
+    {
+        "question": "What is the term for a malicious software that is designed to cause damage to a computer system?",
+        "answer1": "Virus",
+        "answer2": "Trojan Horse",
+        "answer3": "Worm",
+        "answer4": "Spyware",
+        "correct_answer": 1
+    },
+    {
+        "question": "In computer networking, what does the acronym 'LAN' stand for?",
+        "answer1": "Local Access Network",
+        "answer2": "Long Area Network",
+        "answer3": "Local Area Network",
+        "answer4": "Large Access Network",
+        "correct_answer": 3
+    },
+    {
+        "question": "Which tech company is known for its search engine?",
+        "answer1": "Microsoft",
+        "answer2": "Apple",
+        "answer3": "Google",
+        "answer4": "Facebook",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the primary function of the Python programming language?",
+        "answer1": "Web development",
+        "answer2": "Artificial Intelligence",
+        "answer3": "Database management",
+        "answer4": "Data analysis",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which programming language is commonly used for building web applications?",
+        "answer1": "Java",
+        "answer2": "Ruby",
+        "answer3": "JavaScript",
+        "answer4": "C#",
+        "correct_answer": 3
+    },
+    {
+        "question": "Who is the CEO of Tesla, Inc.?",
+        "answer1": "Bill Gates",
+        "answer2": "Jeff Bezos",
+        "answer3": "Elon Musk",
+        "answer4": "Mark Zuckerberg",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the term for a set of rules governing the exchange or transmission of data between devices?",
+        "answer1": "Protocol",
+        "answer2": "Algorithm",
+        "answer3": "Syntax",
+        "answer4": "Procedure",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which social media platform was founded by Mark Zuckerberg in 2004?",
+        "answer1": "Twitter",
+        "answer2": "Instagram",
+        "answer3": "Facebook",
+        "answer4": "Snapchat",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the name of the humanoid robot developed by Boston Dynamics?",
+        "answer1": "C-3PO",
+        "answer2": "RoboCop",
+        "answer3": "Atlas",
+        "answer4": "R2-D2",
+        "correct_answer": 3
+    },
+    {
+        "question": "In computer storage, what does the acronym 'SSD' stand for?",
+        "answer1": "Solid State Drive",
+        "answer2": "Super Speed Disk",
+        "answer3": "System Storage Device",
+        "answer4": "Sequential Storage Drive",
+        "correct_answer": 1
+    },
+    {
+        "question": "What does the acronym 'URL' stand for?",
+        "answer1": "Uniform Resource Locator",
+        "answer2": "Universal Resource Locator",
+        "answer3": "Uniform Retrieval Locator",
+        "answer4": "Universal Retrieval Locator",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which tech company produces the iPhone?",
+        "answer1": "Samsung",
+        "answer2": "Apple",
+        "answer3": "Sony",
+        "answer4": "Microsoft",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the term for a software program that replicates itself and spreads to other computers?",
+        "answer1": "Spyware",
+        "answer2": "Virus",
+        "answer3": "Malware",
+        "answer4": "Worm",
+        "correct_answer": 4
+    },
+    {
+        "question": "Who is the co-founder of Apple Inc. alongside Steve Jobs?",
+        "answer1": "Tim Cook",
+        "answer2": "Steve Wozniak",
+        "answer3": "Bill Gates",
+        "answer4": "Mark Zuckerberg",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which programming language is often used for data analysis and machine learning?",
+        "answer1": "Java",
+        "answer2": "Python",
+        "answer3": "C++",
+        "answer4": "Ruby",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the name of the virtual assistant developed by Amazon?",
+        "answer1": "Cortana",
+        "answer2": "Siri",
+        "answer3": "Alexa",
+        "answer4": "Google Assistant",
+        "correct_answer": 3
+    },
+    {
+        "question": "In computer graphics, what does the acronym 'GPU' stand for?",
+        "answer1": "General Processing Unit",
+        "answer2": "Graphics Processing Unit",
+        "answer3": "Global Processing Unit",
+        "answer4": "Gaming Processing Unit",
+        "correct_answer": 2
+    },
+    {
+        "question": "Who is the founder of SpaceX and Tesla?",
+        "answer1": "Jeff Bezos",
+        "answer2": "Elon Musk",
+        "answer3": "Mark Zuckerberg",
+        "answer4": "Bill Gates",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the programming language commonly used for developing Android applications?",
+        "answer1": "Swift",
+        "answer2": "Java",
+        "answer3": "C#",
+        "answer4": "Kotlin",
+        "correct_answer": 4
+    },
+    {
+        "question": "Which company is known for its series of gaming consoles, including PlayStation 5?",
+        "answer1": "Microsoft",
+        "answer2": "Nintendo",
+        "answer3": "Sony",
+        "answer4": "Sega",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the term for a type of computer memory that retains its contents even when the power is turned off?",
+        "answer1": "RAM",
+        "answer2": "ROM",
+        "answer3": "Cache",
+        "answer4": "Flash",
+        "correct_answer": 2
+    },
+    {
+        "question": "Who is the CEO of Amazon?",
+        "answer1": "Tim Cook",
+        "answer2": "Elon Musk",
+        "answer3": "Jeff Bezos",
+        "answer4": "Mark Zuckerberg",
+        "correct_answer": 3
+    },
+    {
+        "question": "What does the acronym 'AI' stand for in the context of computer science?",
+        "answer1": "Automated Intelligence",
+        "answer2": "Artificial Intelligence",
+        "answer3": "Advanced Interface",
+        "answer4": "Algorithmic Insight",
+        "correct_answer": 2
+    },
+    {
+        "question": "In the context of internet security, what does the term 'phishing' refer to?",
+        "answer1": "A type of malware",
+        "answer2": "An email scam",
+        "answer3": "Wireless hacking",
+        "answer4": "Social engineering",
+        "correct_answer": 4
+    },
+    {
+        "question": "Which company developed the first commercially available computer mouse?",
+        "answer1": "Microsoft",
+        "answer2": "IBM",
+        "answer3": "Apple",
+        "answer4": "Xerox",
+        "correct_answer": 4
+    },
+    {
+        "question": "What is the term for the process of converting information or data into a code to prevent unauthorized access?",
+        "answer1": "Encryption",
+        "answer2": "Decryption",
+        "answer3": "Encoding",
+        "answer4": "Decoding",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which programming language is commonly used for building dynamic web pages?",
+        "answer1": "HTML",
+        "answer2": "CSS",
+        "answer3": "JavaScript",
+        "answer4": "Python",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the name of the open-source operating system based on the Linux kernel, often used for smartphones?",
+        "answer1": "iOS",
+        "answer2": "Android",
+        "answer3": "Windows",
+        "answer4": "macOS",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which company is known for its graphics processing units (GPUs) used in gaming and professional markets?",
+        "answer1": "AMD",
+        "answer2": "NVIDIA",
+        "answer3": "Intel",
+        "answer4": "Qualcomm",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the term for a network of physical devices embedded with sensors, software, and connectivity to collect and exchange data?",
+        "answer1": "Blockchain",
+        "answer2": "Internet of Things (IoT)",
+        "answer3": "Augmented Reality",
+        "answer4": "Virtual Reality",
+        "correct_answer": 2
+    },
+    {
+        "question": "Who is the co-founder of Twitter?",
+        "answer1": "Mark Zuckerberg",
+        "answer2": "Elon Musk",
+        "answer3": "Jack Dorsey",
+        "answer4": "Jeff Bezos",
+        "correct_answer": 3
+    },
+    {
+        "question": "In computer graphics, what does the term '3D rendering' refer to?",
+        "answer1": "Creating lifelike images from 2D models",
+        "answer2": "Generating holographic displays",
+        "answer3": "Simulating virtual reality",
+        "answer4": "Converting audio into visual effects",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the primary function of a firewall in network security?",
+        "answer1": "Virus detection",
+        "answer2": "Data encryption",
+        "answer3": "Unauthorized access prevention",
+        "answer4": "Network speed optimization",
+        "correct_answer": 3
+    },
+    {
+        "question": "Which technology is used to transmit data wirelessly over short distances between devices such as smartphones and laptops?",
+        "answer1": "Bluetooth",
+        "answer2": "NFC",
+        "answer3": "Wi-Fi",
+        "answer4": "LTE",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the name of the virtual currency that uses cryptography for security and operates on a decentralized network?",
+        "answer1": "Dollar",
+        "answer2": "Bitcoin",
+        "answer3": "Euro",
+        "answer4": "Yen",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which company developed the first commercially successful microprocessor?",
+        "answer1": "Intel",
+        "answer2": "AMD",
+        "answer3": "IBM",
+        "answer4": "Apple",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the term for a software program that simulates a human-like conversation through text or voice interactions?",
+        "answer1": "Robot",
+        "answer2": "Android",
+        "answer3": "Chatbot",
+        "answer4": "Cyborg",
+        "correct_answer": 3
+    },
+    {
+        "question": "Which technology is used to store data on a magnetic strip on cards, such as credit or debit cards?",
+        "answer1": "RFID",
+        "answer2": "Barcodes",
+        "answer3": "Magnetic Stripe",
+        "answer4": "QR Code",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the name of the programming language created by Apple for iOS and macOS development?",
+        "answer1": "Java",
+        "answer2": "Swift",
+        "answer3": "C++",
+        "answer4": "Python",
+        "correct_answer": 2
+    },
+    {
+        "question": "In computer networking, what does the term 'WAN' stand for?",
+        "answer1": "Wireless Area Network",
+        "answer2": "Wide Area Network",
+        "answer3": "Wired Access Network",
+        "answer4": "Web Application Network",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which company is known for its antivirus software products?",
+        "answer1": "Microsoft",
+        "answer2": "Symantec",
+        "answer3": "Adobe",
+        "answer4": "Kaspersky",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the term for a computer program that replicates itself and spreads to other computers over a network?",
+        "answer1": "Virus",
+        "answer2": "Trojan Horse",
+        "answer3": "Worm",
+        "answer4": "Spyware",
+        "correct_answer": 3
+    },
+    {
+        "question": "Which programming language is widely used for developing machine learning applications?",
+        "answer1": "Java",
+        "answer2": "Python",
+        "answer3": "C#",
+        "answer4": "Ruby",
+        "correct_answer": 2
+    },
+    {
+        "question": "In computer hardware, what does the acronym 'CPU' stand for?",
+        "answer1": "Central Processing Unit",
+        "answer2": "Computer Personal Unit",
+        "answer3": "Central Processor Unit",
+        "answer4": "Central Personal Unit",
+        "correct_answer": 1
+    }
+]

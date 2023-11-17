@@ -1,0 +1,402 @@
+[
+    {
+        "question": "Which famous explorer is credited with discovering America in 1492?",
+        "answer1": "Christopher Columbus",
+        "answer2": "Ferdinand Magellan",
+        "answer3": "Marco Polo",
+        "answer4": "Vasco da Gama",
+        "correct_answer": 1
+    },
+    {
+        "question": "In what year did World War I begin?",
+        "answer1": "1914",
+        "answer2": "1916",
+        "answer3": "1918",
+        "answer4": "1920",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer1": "Thomas Jefferson",
+        "answer2": "John Adams",
+        "answer3": "George Washington",
+        "answer4": "James Madison",
+        "correct_answer": 3
+    },
+    {
+        "question": "What ancient civilization built the pyramids in Egypt?",
+        "answer1": "Greek",
+        "answer2": "Roman",
+        "answer3": "Mayan",
+        "answer4": "Egyptian",
+        "correct_answer": 4
+    },
+    {
+        "question": "Which war is known as the 'War of Roses'?",
+        "answer1": "American Civil War",
+        "answer2": "Hundred Years' War",
+        "answer3": "War of the Roses",
+        "answer4": "Vietnam War",
+        "correct_answer": 3
+    },
+    {
+        "question": "Who was the queen of ancient Egypt and the last pharaoh?",
+        "answer1": "Cleopatra",
+        "answer2": "Nefertiti",
+        "answer3": "Hatshepsut",
+        "answer4": "Isis",
+        "correct_answer": 1
+    },
+    {
+        "question": "In what year did the Berlin Wall fall?",
+        "answer1": "1985",
+        "answer2": "1989",
+        "answer3": "1991",
+        "answer4": "1995",
+        "correct_answer": 2
+    },
+    {
+        "question": "Who wrote 'The Communist Manifesto'?",
+        "answer1": "Karl Marx",
+        "answer2": "Friedrich Engels",
+        "answer3": "Vladimir Lenin",
+        "answer4": "Joseph Stalin",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which famous battle took place in 1066 and had a significant impact on English history?",
+        "answer1": "Battle of Agincourt",
+        "answer2": "Battle of Hastings",
+        "answer3": "Battle of Bannockburn",
+        "answer4": "Battle of Thermopylae",
+        "correct_answer": 2
+    },
+    {
+        "question": "Who was the leader of the civil rights movement in the United States and delivered the famous 'I Have a Dream' speech?",
+        "answer1": "Malcolm X",
+        "answer2": "Martin Luther King Jr.",
+        "answer3": "Rosa Parks",
+        "answer4": "Nelson Mandela",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which ancient civilization is known for its impressive terracotta army?",
+        "answer1": "Greeks",
+        "answer2": "Romans",
+        "answer3": "Persians",
+        "answer4": "Chinese",
+        "correct_answer": 4
+    },
+    {
+        "question": "What event marked the beginning of the Great Depression in the 1930s?",
+        "answer1": "Stock Market Crash of 1929",
+        "answer2": "World War II",
+        "answer3": "Prohibition",
+        "answer4": "Roaring Twenties",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who was the first woman to win a Nobel Prize and remains the only person to win Nobel Prizes in two different scientific fields?",
+        "answer1": "Marie Curie",
+        "answer2": "Rosalind Franklin",
+        "answer3": "Jane Goodall",
+        "answer4": "Dorothy Crowfoot Hodgkin",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which historical figure is known for leading the Salt March as a form of nonviolent protest against British salt monopoly?",
+        "answer1": "Mahatma Gandhi",
+        "answer2": "Nelson Mandela",
+        "answer3": "Winston Churchill",
+        "answer4": "Jawaharlal Nehru",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who was the Roman general and statesman who played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire?",
+        "answer1": "Julius Caesar",
+        "answer2": "Augustus",
+        "answer3": "Cicero",
+        "answer4": "Mark Antony",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which American president signed the Emancipation Proclamation, declaring all slaves in Confederate-held territory to be free?",
+        "answer1": "Abraham Lincoln",
+        "answer2": "Andrew Johnson",
+        "answer3": "Ulysses S. Grant",
+        "answer4": "James Buchanan",
+        "correct_answer": 1
+    },
+    {
+        "question": "In what year did the Russian Revolution take place, leading to the establishment of the Soviet Union?",
+        "answer1": "1917",
+        "answer2": "1920",
+        "answer3": "1923",
+        "answer4": "1930",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "answer1": "Amelia Earhart",
+        "answer2": "Bessie Coleman",
+        "answer3": "Jacqueline Cochran",
+        "answer4": "Harriet Quimby",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which ancient city was known for its Hanging Gardens, one of the Seven Wonders of the Ancient World?",
+        "answer1": "Babylon",
+        "answer2": "Athens",
+        "answer3": "Rome",
+        "answer4": "Alexandria",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who was the leader of the Soviet Union during much of the Cold War, from 1953 to 1964?",
+        "answer1": "Joseph Stalin",
+        "answer2": "Nikita Khrushchev",
+        "answer3": "Leon Trotsky",
+        "answer4": "Mikhail Gorbachev",
+        "correct_answer": 2
+    },
+    {
+        "question": "During which war did the Battle of Gettysburg take place?",
+        "answer1": "American Revolutionary War",
+        "answer2": "American Civil War",
+        "answer3": "World War I",
+        "answer4": "World War II",
+        "correct_answer": 2
+    },
+    {
+        "question": "Who was the first Emperor of China, known for the Terracotta Army?",
+        "answer1": "Emperor Qin Shi Huang",
+        "answer2": "Emperor Han Wudi",
+        "answer3": "Emperor Tang Taizong",
+        "answer4": "Emperor Song Huizong",
+        "correct_answer": 1
+    },
+    {
+        "question": "In what year did the Titanic sink after hitting an iceberg?",
+        "answer1": "1912",
+        "answer2": "1920",
+        "answer3": "1931",
+        "answer4": "1942",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who was the ancient Greek philosopher sentenced to death by drinking hemlock?",
+        "answer1": "Socrates",
+        "answer2": "Plato",
+        "answer3": "Aristotle",
+        "answer4": "Heraclitus",
+        "correct_answer": 1
+    },
+    {
+        "question": "What famous document was adopted on July 4, 1776, declaring the thirteen American colonies independent from British rule?",
+        "answer1": "The Magna Carta",
+        "answer2": "The Constitution",
+        "answer3": "The Bill of Rights",
+        "answer4": "The Declaration of Independence",
+        "correct_answer": 4
+    },
+    {
+        "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+        "answer1": "Joseph Stalin",
+        "answer2": "Nikita Khrushchev",
+        "answer3": "Leon Trotsky",
+        "answer4": "Mikhail Gorbachev",
+        "correct_answer": 2
+    },
+    {
+        "question": "In what year did the Renaissance begin in Italy?",
+        "answer1": "1300",
+        "answer2": "1400",
+        "answer3": "1500",
+        "answer4": "1600",
+        "correct_answer": 3
+    },
+    {
+        "question": "Which European explorer was the first to reach India by sea?",
+        "answer1": "Christopher Columbus",
+        "answer2": "Ferdinand Magellan",
+        "answer3": "Vasco da Gama",
+        "answer4": "John Cabot",
+        "correct_answer": 3
+    },
+    {
+        "question": "Who was the author of 'The Prince,' a political treatise on leadership and governance?",
+        "answer1": "Niccolò Machiavelli",
+        "answer2": "Thomas More",
+        "answer3": "John Locke",
+        "answer4": "Jean-Jacques Rousseau",
+        "correct_answer": 1
+    },
+    {
+        "question": "What event marked the beginning of World War II?",
+        "answer1": "Invasion of Normandy",
+        "answer2": "Attack on Pearl Harbor",
+        "answer3": "Battle of Stalingrad",
+        "answer4": "Blitzkrieg in Poland",
+        "correct_answer": 4
+    },
+    {
+        "question": "Who was the Queen of England during the time of William Shakespeare?",
+        "answer1": "Queen Elizabeth I",
+        "answer2": "Queen Mary I",
+        "answer3": "Queen Anne",
+        "answer4": "Queen Victoria",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which ancient civilization is credited with the invention of democracy?",
+        "answer1": "Egyptians",
+        "answer2": "Romans",
+        "answer3": "Greeks",
+        "answer4": "Persians",
+        "correct_answer": 3
+    },
+    {
+        "question": "What treaty ended the First World War?",
+        "answer1": "Treaty of Versailles",
+        "answer2": "Treaty of Brest-Litovsk",
+        "answer3": "Treaty of Trianon",
+        "answer4": "Treaty of Saint-Germain-en-Laye",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who was the first woman to be awarded a Nobel Prize in Physics?",
+        "answer1": "Marie Curie",
+        "answer2": "Rosalind Franklin",
+        "answer3": "Dorothy Crowfoot Hodgkin",
+        "answer4": "Maria Goeppert Mayer",
+        "correct_answer": 1
+    },
+    {
+        "question": "In what year did the United States gain independence from Great Britain?",
+        "answer1": "1776",
+        "answer2": "1789",
+        "answer3": "1804",
+        "answer4": "1812",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who was the founder of the Mongol Empire?",
+        "answer1": "Genghis Khan",
+        "answer2": "Kublai Khan",
+        "answer3": "Attila the Hun",
+        "answer4": "Tamerlane",
+        "correct_answer": 1
+    },
+    {
+        "question": "What famous document begins with the words, 'We the People'?",
+        "answer1": "The Magna Carta",
+        "answer2": "The Constitution",
+        "answer3": "The Bill of Rights",
+        "answer4": "The Declaration of Independence",
+        "correct_answer": 2
+    },
+    {
+        "question": "Who was the leader of the Soviet Union during the Russian Revolution of 1917?",
+        "answer1": "Vladimir Lenin",
+        "answer2": "Joseph Stalin",
+        "answer3": "Leon Trotsky",
+        "answer4": "Nikita Khrushchev",
+        "correct_answer": 1
+    },
+    {
+        "question": "What ancient civilization is known for the construction of the Great Wall?",
+        "answer1": "Greek",
+        "answer2": "Roman",
+        "answer3": "Persian",
+        "answer4": "Chinese",
+        "correct_answer": 4
+    },
+    {
+        "question": "Who was the Prime Minister of the United Kingdom during World War II?",
+        "answer1": "Winston Churchill",
+        "answer2": "Neville Chamberlain",
+        "answer3": "Clement Attlee",
+        "answer4": "Anthony Eden",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which ancient civilization is credited with the invention of the wheel?",
+        "answer1": "Sumerians",
+        "answer2": "Egyptians",
+        "answer3": "Indus Valley Civilization",
+        "answer4": "Chinese",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who was the leader of the Allied forces during World War II?",
+        "answer1": "Winston Churchill",
+        "answer2": "Joseph Stalin",
+        "answer3": "Franklin D. Roosevelt",
+        "answer4": "Dwight D. Eisenhower",
+        "correct_answer": 4
+    },
+    {
+        "question": "In what year did the Black Death significantly impact Europe?",
+        "answer1": "1300",
+        "answer2": "1347",
+        "answer3": "1400",
+        "answer4": "1453",
+        "correct_answer": 2
+    },
+    {
+        "question": "Who was the first President of the United States to be impeached?",
+        "answer1": "Andrew Johnson",
+        "answer2": "Richard Nixon",
+        "answer3": "Bill Clinton",
+        "answer4": "Donald Trump",
+        "correct_answer": 3
+    },
+    {
+        "question": "What famous speech did Abraham Lincoln deliver during the American Civil War?",
+        "answer1": "Gettysburg Address",
+        "answer2": "Emancipation Proclamation",
+        "answer3": "I Have a Dream",
+        "answer4": "Four Score and Seven Years Ago",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who was the architect of the Great Fire of London in 1666?",
+        "answer1": "Charles II",
+        "answer2": "Oliver Cromwell",
+        "answer3": "Christopher Wren",
+        "answer4": "Samuel Pepys",
+        "correct_answer": 3
+    },
+    {
+        "question": "Which ancient city was known for its Hanging Gardens, one of the Seven Wonders of the Ancient World?",
+        "answer1": "Babylon",
+        "answer2": "Athens",
+        "answer3": "Rome",
+        "answer4": "Alexandria",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "answer1": "Amelia Earhart",
+        "answer2": "Bessie Coleman",
+        "answer3": "Jacqueline Cochran",
+        "answer4": "Harriet Quimby",
+        "correct_answer": 1
+    },
+    {
+        "question": "In what year did the United States declare its independence from Great Britain?",
+        "answer1": "1776",
+        "answer2": "1789",
+        "answer3": "1804",
+        "answer4": "1812",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who was the leader of the Nazi Party and Chancellor of Germany during World War II?",
+        "answer1": "Adolf Hitler",
+        "answer2": "Benito Mussolini",
+        "answer3": "Hirohito",
+        "answer4": "Joseph Goebbels",
+        "correct_answer": 1
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "question": "Who is known as the 'father of modern physics'?",
+        "answer1": "Isaac Newton",
+        "answer2": "Albert Einstein",
+        "answer3": "Galileo Galilei",
+        "answer4": "Niels Bohr",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the chemical symbol for the element gold?",
+        "answer1": "Go",
+        "answer2": "Ge",
+        "answer3": "Au",
+        "answer4": "Ag",
+        "correct_answer": 3
+    },
+    {
+        "question": "Which gas is responsible for the Earth's greenhous effect?",
+        "answer1": "Oxygen",
+        "answer2": "Carbon Dioxide",
+        "answer3": "Methane",
+        "answer4": "Nitrogen",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "answer1": "Heart",
+        "answer2": "Brain",
+        "answer3": "Liver",
+        "answer4": "Skin",
+        "correct_answer": 4
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "answer1": "Isaac Newton",
+        "answer2": "Galileo Galilei",
+        "answer3": "Niels Bohr",
+        "answer4": "Albert Einstein",
+        "correct_answer": 4
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "answer1": "0",
+        "answer2": "1",
+        "answer3": "2",
+        "answer4": "3",
+        "correct_answer": 3
+    },
+    {
+        "question": "In chemistry, H2O is the chemical formula for what?",
+        "answer1": "Hydrochloric Acid",
+        "answer2": "Hydrogen Peroxide",
+        "answer3": "Water",
+        "answer4": "Carbon Dioxide",
+        "correct_answer": 3
+    },
+    {
+        "question": "Which scientist is known for his laws of motion?",
+        "answer1": "Galileo Galilei",
+        "answer2": "Isaac Newton",
+        "answer3": "Albert Einstein",
+        "answer4": "Niels Bohr",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the chemical symbol for the element oxygen?",
+        "answer1": "Ox",
+        "answer2": "Oy",
+        "answer3": "O",
+        "answer4": "Om",
+        "correct_answer": 3
+    },
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "answer1": "Mars",
+        "answer2": "Venus",
+        "answer3": "Jupiter",
+        "answer4": "Mercury",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the unit of measurement for electric current?",
+        "answer1": "Volt",
+        "answer2": "Ampere",
+        "answer3": "Ohm",
+        "answer4": "Watt",
+        "correct_answer": 2
+    },
+    {
+        "question": "Who is known for the development of the periodic table of elements?",
+        "answer1": "Marie Curie",
+        "answer2": "Dmitri Mendeleev",
+        "answer3": "Linus Pauling",
+        "answer4": "Robert Boyle",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the chemical symbol for the element carbon?",
+        "answer1": "C",
+        "answer2": "Ca",
+        "answer3": "Co",
+        "answer4": "Cu",
+        "correct_answer": 1
+    },
+    {
+        "question": "In physics, what is the SI unit of force?",
+        "answer1": "Newton",
+        "answer2": "Joule",
+        "answer3": "Watt",
+        "answer4": "Pascal",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who proposed the heliocentric model of the solar system?",
+        "answer1": "Galileo Galilei",
+        "answer2": "Tycho Brahe",
+        "answer3": "Johannes Kepler",
+        "answer4": "Nicolas Copernicus",
+        "correct_answer": 4
+    },
+    {
+        "question": "What is the chemical symbol for the element iron?",
+        "answer1": "Fe",
+        "answer2": "Ir",
+        "answer3": "In",
+        "answer4": "Ni",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which gas makes up the majority of Earth's atmosphere?",
+        "answer1": "Oxygen",
+        "answer2": "Nitrogen",
+        "answer3": "Carbon Dioxide",
+        "answer4": "Argon",
+        "correct_answer": 2
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "answer1": "Alexander Fleming",
+        "answer2": "Marie Curie",
+        "answer3": "Louis Pasteur",
+        "answer4": "Joseph Lister",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the chemical symbol for the element sodium?",
+        "answer1": "Sa",
+        "answer2": "So",
+        "answer3": "Na",
+        "answer4": "Ni",
+        "correct_answer": 3
+    },
+    {
+        "question": "Who is known for the laws of heredity in biology?",
+        "answer1": "Charles Darwin",
+        "answer2": "Gregor Mendel",
+        "answer3": "Alfred Wallace",
+        "answer4": "Thomas Hunt Morgan",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "answer1": "299,792 kilometers per second",
+        "answer2": "150,000 miles per second",
+        "answer3": "186,282 miles per second",
+        "answer4": "300,000 kilometers per second",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which gas is responsible for the colors of the aurora borealis (northern lights) and aurora australis (southern lights)?",
+        "answer1": "Oxygen",
+        "answer2": "Hydrogen",
+        "answer3": "Helium",
+        "answer4": "Nitrogen",
+        "correct_answer": 4
+    },
+    {
+        "question": "Who is known for the discovery of radium and polonium?",
+        "answer1": "Marie Curie",
+        "answer2": "Pierre Curie",
+        "answer3": "Madame de Staël",
+        "answer4": "Henri Poincaré",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the smallest bone in the human body?",
+        "answer1": "Stapes",
+        "answer2": "Femur",
+        "answer3": "Radius",
+        "answer4": "Tibia",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which planet is known as the 'Blue Planet'?",
+        "answer1": "Earth",
+        "answer2": "Neptune",
+        "answer3": "Uranus",
+        "answer4": "Venus",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the smallest unit of life?",
+        "answer1": "Cell",
+        "answer2": "Atom",
+        "answer3": "Molecule",
+        "answer4": "Organism",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who formulated the laws of motion and universal gravitation?",
+        "answer1": "Isaac Newton",
+        "answer2": "Galileo Galilei",
+        "answer3": "Albert Einstein",
+        "answer4": "Niels Bohr",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the process by which plants make their own food using sunlight?",
+        "answer1": "Respiration",
+        "answer2": "Photosynthesis",
+        "answer3": "Digestion",
+        "answer4": "Fermentation",
+        "correct_answer": 2
+    },
+    {
+        "question": "Which scientist is credited with the development of the theory of evolution by natural selection?",
+        "answer1": "Charles Darwin",
+        "answer2": "Gregor Mendel",
+        "answer3": "Alfred Wallace",
+        "answer4": "Thomas Hunt Morgan",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "answer1": "Heart",
+        "answer2": "Brain",
+        "answer3": "Liver",
+        "answer4": "Skin",
+        "correct_answer": 4
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "answer1": "Alexander Fleming",
+        "answer2": "Marie Curie",
+        "answer3": "Louis Pasteur",
+        "answer4": "Joseph Lister",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the chemical symbol for the element silicon?",
+        "answer1": "Si",
+        "answer2": "Se",
+        "answer3": "S",
+        "answer4": "So",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the study of the Earth's atmosphere and weather?",
+        "answer1": "Geology",
+        "answer2": "Meteorology",
+        "answer3": "Astronomy",
+        "answer4": "Ecology",
+        "correct_answer": 2
+    },
+    {
+        "question": "Who is known for the discovery of X-rays?",
+        "answer1": "Marie Curie",
+        "answer2": "Wilhelm Roentgen",
+        "answer3": "Niels Bohr",
+        "answer4": "Louis Pasteur",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the chemical symbol for the element nitrogen?",
+        "answer1": "N",
+        "answer2": "Ni",
+        "answer3": "Ne",
+        "answer4": "Na",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which gas is responsible for the Earth's ozone layer?",
+        "answer1": "Oxygen",
+        "answer2": "Nitrogen",
+        "answer3": "Ozone",
+        "answer4": "Methane",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the primary function of red blood cells in the human body?",
+        "answer1": "Transport of oxygen",
+        "answer2": "Digestion of food",
+        "answer3": "Fighting infections",
+        "answer4": "Producing hormones",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who is known for the development of the laws of heredity?",
+        "answer1": "Charles Darwin",
+        "answer2": "Gregor Mendel",
+        "answer3": "Alfred Wallace",
+        "answer4": "Thomas Hunt Morgan",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the chemical symbol for the element copper?",
+        "answer1": "Cu",
+        "answer2": "Co",
+        "answer3": "Ca",
+        "answer4": "Cp",
+        "correct_answer": 1
+    },
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "answer1": "Mars",
+        "answer2": "Venus",
+        "answer3": "Jupiter",
+        "answer4": "Mercury",
+        "correct_answer": 1
+    },
+    {
+        "question": "What is the SI unit for temperature?",
+        "answer1": "Celsius",
+        "answer2": "Kelvin",
+        "answer3": "Fahrenheit",
+        "answer4": "Rankine",
+        "correct_answer": 2
+    },
+    {
+        "question": "Who developed the theory of special relativity?",
+        "answer1": "Isaac Newton",
+        "answer2": "Galileo Galilei",
+        "answer3": "Albert Einstein",
+        "answer4": "Niels Bohr",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the chemical symbol for the element aluminum?",
+        "answer1": "Am",
+        "answer2": "Al",
+        "answer3": "Ai",
+        "answer4": "Au",
+        "correct_answer": 2
+    },
+    {
+        "question": "In what year did the first human land on the Moon?",
+        "answer1": "1967",
+        "answer2": "1969",
+        "answer3": "1971",
+        "answer4": "1973",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "answer1": "Earth",
+        "answer2": "Jupiter",
+        "answer3": "Saturn",
+        "answer4": "Mars",
+        "correct_answer": 2
+    },
+    {
+        "question": "Who is known for the development of the laws of motion?",
+        "answer1": "Galileo Galilei",
+        "answer2": "Isaac Newton",
+        "answer3": "Albert Einstein",
+        "answer4": "Niels Bohr",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the chemical symbol for the element uranium?",
+        "answer1": "U",
+        "answer2": "Un",
+        "answer3": "Ur",
+        "answer4": "Ul",
+        "correct_answer": 1
+    },
+    {
+        "question": "Who is known for the discovery of the structure of DNA?",
+        "answer1": "Rosalind Franklin",
+        "answer2": "Francis Crick",
+        "answer3": "James Watson",
+        "answer4": "Linus Pauling",
+        "correct_answer": 2
+    },
+    {
+        "question": "What is the process by which plants lose water through small openings in their leaves?",
+        "answer1": "Photosynthesis",
+        "answer2": "Respiration",
+        "answer3": "Transpiration",
+        "answer4": "Fermentation",
+        "correct_answer": 3
+    },
+    {
+        "question": "What is the chemical symbol for the element helium?",
+        "answer1": "H",
+        "answer2": "He",
+        "answer3": "Ha",
+        "answer4": "Hu",
+        "correct_answer": 2
+    }
+]
