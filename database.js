@@ -1,22 +1,25 @@
 const sqlite3 = require('sqlite3').verbose();
 const path = require('path');
-const fs = require('fs');
+const fs = require('fs').promises;
 
-const categories = ['food', 'geography', 'history', 'music', 'science', 'space', 'sports', 'technology'];
-const databases = [];
+//* Function to check if a table is empty
+async function isTableEmpty(database, category) {
+    return new Promise((resolve, reject) => {
+        database.get(`SELECT COUNT(*) as count FROM ${category}_quiz_questions`, (error, result) => {
+            if (error) {
+                reject(`ERROR: Checking if table is empty failed - ${error}`);
+            } else {
+                resolve(result.count === 0);
+            }
+        });
+    });
+}
 
-// Iteriere über alle Datenbanknamen
-categories.forEach(category => {
-    let database = new sqlite3.Database(`./databases/${category}.db`, (error) => {
-        if (error) {
-            throw error;
-        }
-
-        console.log(`Connected to ${category}_quiz.db`);
-
-        // Tabelle für jede Datenbank
+//* Function to create a table if it doesn't exist
+async function createTable(database, category) {
+    return new Promise((resolve, reject) => {
         database.run(
-            `CREATE TABLE IF NOT EXISTS quiz_questions (
+            `CREATE TABLE IF NOT EXISTS ${category}_quiz_questions (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
                 question TEXT NOT NULL,
                 answer1 TEXT NOT NULL,
@@ -27,36 +30,78 @@ categories.forEach(category => {
             )`,
             (error) => {
                 if (error) {
-                    console.log(error);
-                    return;
+                    reject(`ERROR: Creating table failed - ${error}`);
+                } else {
+                    console.log(`SUCCESS: Table created - ${category}`);
+                    resolve();
                 }
-
-                console.log(`SUCCESS: Created 'quiz_questions' Table in ${category}`);
-
-                // Lies die JSON-Datei mit Testdaten
-                const jsonFilePath = path.join(__dirname, 'data', `${category}.json`);
-                const jsonData = JSON.parse(fs.readFileSync(jsonFilePath, 'utf-8'));
-
-                // Füge Testdaten in die Datenbank ein
-                jsonData.forEach(data => {
-                    const { question, answer1, answer2, answer3, answer4, correct_answer } = data;
-
-                    const insertQuery = `INSERT INTO quiz_questions (question, answer1, answer2, answer3, answer4, correct_answer) VALUES (?, ?, ?, ?, ?, ?)`;
-
-                    database.run(insertQuery, [question, answer1, answer2, answer3, answer4, correct_answer], (error) => {
-                        if (error) {
-                            console.log(`ERROR: Failed to insert data into quiz_questions at index ${index}: ${error}`);
-                        } else {
-                            console.count('SUCCESS: Inserted data into quiz_questions');
-                        }
-                    });
-                });
-
-                // Füge die erstellte Datenbank dem Array hinzu
-                databases.push(database);
-                console.log(databases);
-            });
+            }
+        );
     });
-});
+}
 
-module.exports = databases;  // Exportiere das Array mit allen erstellten Datenbanken
+//* Function to insert data into a table
+async function insertData(database, category, jsonData) {
+    return Promise.all(jsonData.map(data => {
+        const { question, answer1, answer2, answer3, answer4, correct_answer } = data;
+        const insertQuery = `INSERT INTO ${category}_quiz_questions (question, answer1, answer2, answer3, answer4, correct_answer) VALUES (?, ?, ?, ?, ?, ?)`;
+
+        return new Promise((resolve, reject) => {
+            database.run(insertQuery, [question, answer1, answer2, answer3, answer4, correct_answer], (error) => {
+                if (error) {
+                    reject(`ERROR: Could not create data in table - ${category}: quiz_questions - ${error}`);
+                } else {
+                    resolve();
+                }
+            });
+        });
+    }));
+}
+
+//* Main function to initialize a database for a category
+async function initializeDatabase(database, category) {
+
+    await createTable(database, category);
+
+    const tableIsEmpty = await isTableEmpty(database, category);
+
+    if (tableIsEmpty) {
+        console.log(`SUCCESS: Table is empty - Populating with data - ${category}`);
+        const jsonFilePath = path.join(__dirname, 'data', `${category}.json`);
+        const jsonData = JSON.parse(await fs.readFile(jsonFilePath, 'utf-8'));
+
+        await insertData(database, category, jsonData);
+        console.count(`SUCCESS: Data created in table for ${category}: quiz_questions`);
+    } else {
+        console.log(`INFO: Table already contains data - Skip filling data - ${category}`);
+    }
+    console.log('-------------------------');
+}
+
+//* Exporting the database initialization function for use in server.js
+module.exports = async function initializeDatabases() {
+    const dbPath = './databases/main.db'; // Path to the main database
+    const database = new sqlite3.Database(dbPath);
+
+    try {
+        //* Dynamically generate categories from available JSON files
+        const dataDir = path.join(__dirname, 'data');
+        const files = await fs.readdir(dataDir);
+        const jsonFiles = files.filter(file => file.endsWith('.json'));
+        const categories = jsonFiles.map(file => path.basename(file, '.json'));
+
+        console.log('-------------------------');
+        console.log(`CATEGORIES FOUND IN DATA: ${categories}`);
+        console.log('-------------------------');
+        
+        //* Loop through all categories and initialize the corresponding tables
+        for (const category of categories) {
+            await initializeDatabase(database, category);
+        }
+        console.log('SUCCESS: Database is ready');
+        return database; // Returning only the database instance
+    } catch (error) {
+        console.error(`ERROR: Initializing databases failed - ${error}`);
+        throw error;
+    }
+};
