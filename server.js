@@ -1,14 +1,18 @@
+//* IMPORT EXPRESS
 const express = require('express');
 const app = express();
-// app.use(cors());
+
+//* MIDDLEWARE FOR HANDLING JSON REQUESTS
 app.use(express.json());
 
+//* CONNECT DATABASE AND CATEGORIES
 const initializeDatabases = require('./database.js');
 const getCategoriesFromJSONFiles = require('./getCategoriesFromJSONFiles');
 
-// Database instance code
+//* DATABASE INSTANCE
 let databases;
 
+//* CLASS FOR HANDLING ROUTES FOR EACH CATEGORY
 class CategoryRouteHandler {
     constructor(app, database, category) {
         this.app = app;
@@ -17,19 +21,25 @@ class CategoryRouteHandler {
         this.setupRoutes();
     }
 
+    //* SETUP ROUTES FOR EACH CATEGORY
     setupRoutes() {
         this.app.get(`/api/${this.category}`, (request, response) => {
             console.log(`Handling request for /api/${this.category}`);
+
+            //* SQL QUERY
             let sqlStatement = `SELECT * FROM ${this.category}_quiz_questions`;
             let parameter = [];
 
+            //* EXECUTE QUERY
             this.database.all(sqlStatement, parameter, (error, rows) => {
+                //* ERROR -> SEND BACK ERRORMESSAGE
                 if (error) {
                     console.error(`Error handling request for /api/${this.category}: ${error}`);
                     response.status(400).json({ error: error.message });
                     return;
                 }
 
+                //* SUCCESS -> SEND BACK DATA
                 response.json({
                     message: 'success',
                     data: rows,
@@ -37,25 +47,26 @@ class CategoryRouteHandler {
             });
         });
 
-        // Add more routes for the category here if needed
+        // TODO
+        //? VLLT NOCH MEHRERE ROUTEN ANLEGEN
+
     }
 }
 
-// Wait for the initialization of databases
+//* WAIT FOR INITIALIZATION OF DATABASE
 initializeDatabases()
     .then((database) => {
         databases = database;
 
-        // Example call
         getCategoriesFromJSONFiles()
             .then(categories => {
                 console.log('Dynamically generated categories:', categories);
 
-                // You could use the categories in your application here
                 for (const category of categories) {
                     new CategoryRouteHandler(app, databases, category);
                 }
 
+                //* 404 ERROR HANDLING
                 app.use((request, response) => {
                     console.error(`404 - Route not found: ${request.originalUrl}`);
                     response.status(404).json({
@@ -63,7 +74,7 @@ initializeDatabases()
                     });
                 });
 
-                // Start the Express app
+                //* START THE EXPRESS APPLICATION
                 const HTTP_PORT = process.env.PORT || 8080;
                 app.listen(HTTP_PORT, () => {
                     console.log(`Server is running on port: ${HTTP_PORT}`);
@@ -75,13 +86,7 @@ initializeDatabases()
         console.error(`Error initializing databases: ${error}`);
     });
 
-// TEST GET
+//* TEST GET ROUTE FOR DATABASE STATUS
 app.get('/testDatabase', (request, response) => {
     response.json({ message: 'Database is up!' });
 });
-
-
-
-
-
-

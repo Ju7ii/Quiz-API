@@ -1,7 +1,7 @@
-// getCategoriesFromJSONFiles.js
 const fs = require('fs').promises;
 const path = require('path');
 
+//* MAIN FUNCTION
 async function getCategoriesFromJSONFiles() {
     const dataDir = path.join(__dirname, 'data');
     const files = await fs.readdir(dataDir);
@@ -10,5 +10,5 @@ async function getCategoriesFromJSONFiles() {
     return categories;
 }
 
-// Exportiere die Funktion
+//* EXPORT CATEGORIES FROM FOLDER "DATA"
 module.exports = getCategoriesFromJSONFiles;
