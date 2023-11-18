@@ -1,155 +1,87 @@
 const express = require('express');
 const app = express();
-const database = require('./database.js');
-
 // app.use(cors());
 app.use(express.json());
 
-const HTTP_PORT = 8080;
+const initializeDatabases = require('./database.js');
+const getCategoriesFromJSONFiles = require('./getCategoriesFromJSONFiles');
 
-app.listen(process.env.PORT || HTTP_PORT, () => {
-    console.log('Server is running on port: ', HTTP_PORT);
-});
+// Database instance code
+let databases;
 
-//* TEST GET
-app.get('/api', (request, response) => { //(request, response, next)
-    response.json({ message: 'OK' });
-});
+class CategoryRouteHandler {
+    constructor(app, database, category) {
+        this.app = app;
+        this.database = database;
+        this.category = category;
+        this.setupRoutes();
+    }
 
-//* GET ALL DATA
-app.get('/api/tasks', (request, response) => {
-    let sqlStatement = 'SELECT * FROM task';
-    let parameter = [];
+    setupRoutes() {
+        this.app.get(`/api/${this.category}`, (request, response) => {
+            console.log(`Handling request for /api/${this.category}`);
+            let sqlStatement = `SELECT * FROM ${this.category}_quiz_questions`;
+            let parameter = [];
 
-    database.all(sqlStatement, parameter, (error, rows) => {
-        if (error) {
-            response.status(400).json({ error: error.message });
-            return;
-        }
+            this.database.all(sqlStatement, parameter, (error, rows) => {
+                if (error) {
+                    console.error(`Error handling request for /api/${this.category}: ${error}`);
+                    response.status(400).json({ error: error.message });
+                    return;
+                }
 
-        response.json({
-            message: 'success',
-            data: rows,
-        })
-    });
-});
-
-//* GET SPECIFIC BY ID
-app.get('/api/task/:id', (request, response) => {
-    let sqlStatement = 'SELECT * FROM task WHERE id = ?';
-    let parameter = [request.params.id];
-
-    database.all(sqlStatement, parameter, (error, row) => {
-        if (error) {
-            response.status(400).json({ error: error.message });
-            return;
-        }
-
-        response.json({
-            message: 'success',
-            data: row,
+                response.json({
+                    message: 'success',
+                    data: rows,
+                });
+            });
         });
 
-    });
-
-});
-
-//* CREATE A NEW ELEMENT
-app.post('/api/task', (request, response) => {
-    let errors = [];
-
-    //TODO FILTEROPTIONEN FÜR NAME
-    //? HIER KÖNNTE MAN FILTEROPTIONEN EINBAUEN DAS NAME KEINE SONDERZEICHEN ENTHALTEN DARF
-    if (!request.body.name) {
-        errors.push('No name specified');
+        // Add more routes for the category here if needed
     }
+}
 
-    if (!request.body.description) {
-        errors.push('No description specified');
-    }
+// Wait for the initialization of databases
+initializeDatabases()
+    .then((database) => {
+        databases = database;
 
-    if (errors.length) {
-        response.status(400).json({
-            error: errors,
-        });
-    }
+        // Example call
+        getCategoriesFromJSONFiles()
+            .then(categories => {
+                console.log('Dynamically generated categories:', categories);
 
-    let data = {
-        name: request.body.name,
-        description: request.body.description,
-        created: Date.now(),
-        updated: Date.now(),
-    };
+                // You could use the categories in your application here
+                for (const category of categories) {
+                    new CategoryRouteHandler(app, databases, category);
+                }
 
-    let sqlStatement = 'INSERT INTO task (name, description, created, updated) VALUES (?,?,?,?)';
+                app.use((request, response) => {
+                    console.error(`404 - Route not found: ${request.originalUrl}`);
+                    response.status(404).json({
+                        message: 'ERROR: something went wrong!',
+                    });
+                });
 
-    let parameter = [data.name, data.description, data.created, data.updated];
-
-    database.run(sqlStatement, parameter, function (error) {
-        if (error) {
-            response.status(400).json({ error: error.message });
-            return;
-        }
-
-        response.json({
-            message: 'success',
-            data: data,
-            id: this.lastID,
-        })
-
+                // Start the Express app
+                const HTTP_PORT = process.env.PORT || 8080;
+                app.listen(HTTP_PORT, () => {
+                    console.log(`Server is running on port: ${HTTP_PORT}`);
+                });
+            })
+            .catch(error => console.error('Error getting categories:', error));
+    })
+    .catch((error) => {
+        console.error(`Error initializing databases: ${error}`);
     });
+
+// TEST GET
+app.get('/testDatabase', (request, response) => {
+    response.json({ message: 'Database is up!' });
 });
 
-//* CHANGE A EXISTING ELEMENT
-app.patch('/api/task/:id', (request, response) => {
-    let data = {
-        name: request.body.name,
-        description: request.body.description,
-        updated: Date.now(),
-    };
-
-    let sqlStatement = `
-        UPDATE task SET 
-        name = COALESCE(?, name),
-        description = COALESCE(?, description),
-        updated = ?
-        WHERE id = ?`;
-
-    let parameter = [data.name, data.description, data.updated, request.params.id];
-
-    database.run(sqlStatement, parameter, function(error) {
-        if (error) {
-            response.status(400).json({ error: error.message });
-            return;
-        }
-
-        response.json({
-            message: 'success',
-            data: data,
-            changes: this.changes,
-        })
-    });
-});
-
-app.delete('/api/task/:id', (request, response) => {
-    let sqlStatement = 'DELETE FROM task WHERE id = ?';
-    let parameter = [request.params.id];
-
-    database.run(sqlStatement, parameter, function(error) {
-        if (error) {
-            response.status(400).json({ error: error.message });
-            return;
-        }
-
-        response.json({ message: 'success', changes: this.changes }); // should always be 1
 
 
 
-    });
-});
 
-app.use((request, response) => {
-    response.status(404).json({
-        message: 'ERROR: something went wrong!',
-    });
-});
+
