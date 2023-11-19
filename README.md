@@ -89,7 +89,14 @@ https://quiz-ofe1.onrender.com
 
 | **Method** | **URL** | **Description** |
 | :-------- | :------- | :------------------------- |
-| `GET` | `/testDatabase` | **Required**. Your API key |
+| `GET` | `/api/food` | Gives back data from the requestet category |
+| `GET` | `/api/geography` | Gives back data from the requestet category |
+| `GET` | `/api/history` | Gives back data from the requestet category |
+| `GET` | `/api/music` | Gives back data from the requestet category |
+| `GET` | `/api/science` | Gives back data from the requestet category |
+| `GET` | `/api/space` | Gives back data from the requestet category |
+| `GET` | `/api/sports` | Gives back data from the requestet category |
+| `GET` | `/api/technology` | Gives back data from the requestet category |
 
 <details>
   <summary>
