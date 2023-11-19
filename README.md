@@ -22,7 +22,7 @@ It is designed to be a flexible and scalable solution for retrieving quiz data t
 
 ## Features & Optimizations
 
-**Dynamic Categories:**<br>
+### Dynamic Categories:
 The API supports dynamically generated quiz categories, allowing for easy addition and removal of quiz topics.<br>
 To create a new category, you just need to create a JSON file with the following format:
 
@@ -43,7 +43,7 @@ To create a new category, you just need to create a JSON file with the following
 ```
 </details>
 
-**Question Retrieval:**<br>
+### Question Retrieval:
 Retrieve quiz questions for a specific category by making a GET request to the corresponding endpoint.
 
 <!--------->
@@ -51,9 +51,41 @@ Retrieve quiz questions for a specific category by making a GET request to the c
 ## Base URL
 
 ```
-https://quiz-ofe1.onrender.com/
+https://quiz-ofe1.onrender.com
 ```
 
+<!--------->
+
+## API Endpoints
+
+> [!IMPORTANT]
+> If the API has been in standby mode for a long time, it will take a moment to respond
+
+### Test API
+
+| **Method** | **URL** | **Description** |
+| :-------- | :------- | :------------------------- |
+| `GET` | `/testDatabase` | Tests whether the API is online |
+
+<details>
+  <summary>Expected Response</summary>
+
+```
+{
+  "message": "Database is up!"
+}
+```
+</details>
+
+
+### Quiz Endpoints
+
+> [!NOTE]
+> These are the 8 standard categories
+
+| **Method** | **URL** | **Description** |
+| :-------- | :------- | :------------------------- |
+| `GET` | `/testDatabase` | **Required**. Your API key |
 
 
 <!--------->
