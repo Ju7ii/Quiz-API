@@ -27,7 +27,9 @@ The API supports dynamically generated quiz categories, allowing for easy additi
 To create a new category, you just need to create a JSON file with the following format:
 
 <details>
-  <summary>JSON Format</summary>
+  <summary>
+    <strong>JSON Format</strong>
+  </summary>
   
 ```
 [
@@ -68,7 +70,9 @@ https://quiz-ofe1.onrender.com
 | `GET` | `/testDatabase` | Tests whether the API is online |
 
 <details>
-  <summary>Expected Response</summary>
+  <summary>
+    <strong>Expected Response</strong>
+  </summary>
 
 ```
 {
@@ -87,15 +91,10 @@ https://quiz-ofe1.onrender.com
 | :-------- | :------- | :------------------------- |
 | `GET` | `/testDatabase` | **Required**. Your API key |
 
-
-<!--------->
-
-## Example Output
-
-This is the output of requesting the food quiz.
-
 <details>
-  <summary>Output</summary>
+  <summary>
+    <strong>Expected Response For Food Quiz</strong>
+  </summary>
   
 ```
 {
