@@ -1,6 +1,7 @@
 const sqlite3 = require('sqlite3').verbose();
 const path = require('path');
 const fs = require('fs').promises;
+const getCategoriesFromJSONFiles = require('./getCategoriesFromJSONFiles');
 
 //* Function to check if a table is empty
 async function isTableEmpty(database, category) {
@@ -85,10 +86,7 @@ module.exports = async function initializeDatabases() {
 
     try {
         //* Dynamically generate categories from available JSON files
-        const dataDir = path.join(__dirname, 'data');
-        const files = await fs.readdir(dataDir);
-        const jsonFiles = files.filter(file => file.endsWith('.json'));
-        const categories = jsonFiles.map(file => path.basename(file, '.json'));
+        const categories = await getCategoriesFromJSONFiles();
 
         console.log('-------------------------');
         console.log(`CATEGORIES FOUND IN DATA: ${categories}`);
