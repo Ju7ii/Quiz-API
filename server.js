@@ -27,8 +27,8 @@ class CategoryRouteHandler {
             console.log(`Handling request for /api/${this.category}`);
 
             //* SQL QUERY
-            let sqlStatement = `SELECT * FROM ${this.category}_quiz_questions`;
-            let parameter = [];
+            const sqlStatement = `SELECT * FROM ${this.category}_quiz_questions ORDER BY RANDOM() LIMIT 10`;
+            const parameter = [];
 
             //* EXECUTE QUERY
             this.database.all(sqlStatement, parameter, (error, rows) => {
@@ -47,8 +47,50 @@ class CategoryRouteHandler {
             });
         });
 
-        // TODO
-        //? VLLT NOCH MEHRERE ROUTEN ANLEGEN
+        this.app.get('/api/count-total', (request, response) => {
+            console.log(`Handling request for /api/count-total`);
+
+            const sqlStatement = "SELECT name FROM sqlite_master WHERE type='table' AND name <> 'sqlite_sequence';";
+            const parameter = [];
+
+            this.database.all(sqlStatement, parameter, (error, tables) => {
+                if (error) {
+                    console.error(`Error getting table names: ${error}`);
+                    response.status(500).json({ error: 'Internal Server Error' });
+                    return;
+                }
+
+                let totalEntries = 0;
+
+                const countRows = (index) => {
+                    if (index >= tables.length) {
+                        const totalTables = tables.length;
+
+                        response.json({
+                            message: 'success',
+                            total_tables: totalTables,
+                            total_entries: totalEntries,
+                        });
+                        return;
+                    }
+
+                    const tableName = tables[index].name;
+                    const countStatement = `SELECT COUNT(*) AS count FROM ${tableName}`;
+                    this.database.get(countStatement, [], (error, result) => {
+                        if (error) {
+                            console.error(`Error counting rows for table ${tableName}: ${error}`);
+                            response.status(500).json({ error: 'Internal Server Error' });
+                            return;
+                        }
+
+                        totalEntries += result.count;
+                        countRows(index + 1);
+                    });
+                };
+
+                countRows(0);
+            });
+        });
 
     }
 }
