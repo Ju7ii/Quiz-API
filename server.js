@@ -129,6 +129,6 @@ initializeDatabases()
     });
 
 //* TEST GET ROUTE FOR DATABASE STATUS
-app.get('/testDatabase', (request, response) => {
+app.get('/api/test-database', (request, response) => {
     response.json({ message: 'Database is up!' });
 });
