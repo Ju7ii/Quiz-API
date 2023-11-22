@@ -22,6 +22,7 @@ async function createTable(database, category) {
         database.run(
             `CREATE TABLE IF NOT EXISTS ${category}_quiz_questions (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
+                category TEXT NOT NULL,
                 question TEXT NOT NULL,
                 answer1 TEXT NOT NULL,
                 answer2 TEXT NOT NULL,
@@ -45,10 +46,10 @@ async function createTable(database, category) {
 async function insertData(database, category, jsonData) {
     return Promise.all(jsonData.map(data => {
         const { question, answer1, answer2, answer3, answer4, correct_answer } = data;
-        const insertQuery = `INSERT INTO ${category}_quiz_questions (question, answer1, answer2, answer3, answer4, correct_answer) VALUES (?, ?, ?, ?, ?, ?)`;
+        const insertQuery = `INSERT INTO ${category}_quiz_questions (category, question, answer1, answer2, answer3, answer4, correct_answer) VALUES (?, ?, ?, ?, ?, ?, ?)`;
 
         return new Promise((resolve, reject) => {
-            database.run(insertQuery, [question, answer1, answer2, answer3, answer4, correct_answer], (error) => {
+            database.run(insertQuery, [category, question, answer1, answer2, answer3, answer4, correct_answer], (error) => {
                 if (error) {
                     reject(`ERROR: Could not create data in table - ${category}: quiz_questions - ${error}`);
                 } else {
