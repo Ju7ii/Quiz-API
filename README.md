@@ -3,22 +3,22 @@
 The Quiz API provides access to a dynamic set of quiz categories and their corresponding questions. 
 It is designed to be a flexible and scalable solution for retrieving quiz data through a set of well-defined RESTful endpoints.
 
-<!--------->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## Languages and Tools
 
-### Languages
+### Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### Database
+### Database:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
-### Tools
+### Tools:
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 
-<!--------->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## Features & Optimizations
 
@@ -45,17 +45,25 @@ To create a new category, you just need to create a JSON file with the following
 ```
 </details>
 
-### Question Retrieval:
+
+
+### Random Question Retrieval:
+
 Retrieve quiz questions for a specific category by making a GET request to the corresponding endpoint.
+For one request you will receive 10 randomly selected entries back.
+
+
 
 ### Testing Endpoints:
+
 Various endpoints for testing the API making a GET request.<br>
 Examples:
 - Testing whether API is online
 - How many data records are available in total
 
 
-<!--------->
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## Base URL
 
@@ -63,12 +71,14 @@ Examples:
 https://quiz-ofe1.onrender.com
 ```
 
-<!--------->
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## API Endpoints
 
 > [!IMPORTANT]
 > If the API has been in standby mode for a long time, it will take a moment to respond
+
+
 
 ### Test API
 
@@ -87,6 +97,8 @@ https://quiz-ofe1.onrender.com
 }
 ```
 </details>
+
+
 
 ### Total Entries
 
@@ -228,6 +240,7 @@ https://quiz-ofe1.onrender.com
 ```
 </details>
 
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## License
 
