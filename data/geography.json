@@ -1,5 +1,6 @@
 [
     {
+        "category": "geography",
         "question": "What is the capital city of Australia?",
         "answer1": "Sydney",
         "answer2": "Melbourne",
@@ -8,6 +9,7 @@
         "correct_answer": 3
     },
     {
+        "category": "geography",
         "question": "Which river is the longest in the world?",
         "answer1": "Nile",
         "answer2": "Amazon",
@@ -16,6 +18,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "In what country would you find the ancient city of Petra?",
         "answer1": "Greece",
         "answer2": "Jordan",
@@ -24,6 +27,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "Which mountain range separates Europe and Asia?",
         "answer1": "Andes",
         "answer2": "Himalayas",
@@ -32,6 +36,7 @@
         "correct_answer": 4
     },
     {
+        "category": "geography",
         "question": "What is the largest desert in the world?",
         "answer1": "Sahara Desert",
         "answer2": "Gobi Desert",
@@ -40,6 +45,7 @@
         "correct_answer": 4
     },
     {
+        "category": "geography",
         "question": "Which ocean is the largest on Earth?",
         "answer1": "Atlantic Ocean",
         "answer2": "Indian Ocean",
@@ -48,6 +54,7 @@
         "correct_answer": 4
     },
     {
+        "category": "geography",
         "question": "What is the capital city of Canada?",
         "answer1": "Toronto",
         "answer2": "Vancouver",
@@ -56,6 +63,7 @@
         "correct_answer": 3
     },
     {
+        "category": "geography",
         "question": "Which African country is known as the 'Pearl of Africa'?",
         "answer1": "Nigeria",
         "answer2": "South Africa",
@@ -64,6 +72,7 @@
         "correct_answer": 3
     },
     {
+        "category": "geography",
         "question": "What is the highest mountain in North America?",
         "answer1": "Mount Everest",
         "answer2": "Denali (Mount McKinley)",
@@ -72,6 +81,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "Which river runs through the Grand Canyon?",
         "answer1": "Colorado River",
         "answer2": "Mississippi River",
@@ -80,6 +90,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "In what country would you find the Great Barrier Reef?",
         "answer1": "Thailand",
         "answer2": "Australia",
@@ -88,6 +99,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "Which strait separates Africa from Europe?",
         "answer1": "Bering Strait",
         "answer2": "Strait of Gibraltar",
@@ -96,6 +108,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "What is the largest island in the world?",
         "answer1": "Greenland",
         "answer2": "Australia",
@@ -104,6 +117,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "Which country is known as the 'Land of the Rising Sun'?",
         "answer1": "China",
         "answer2": "South Korea",
@@ -112,6 +126,7 @@
         "correct_answer": 3
     },
     {
+        "category": "geography",
         "question": "What is the capital city of Brazil?",
         "answer1": "Rio de Janeiro",
         "answer2": "Brasília",
@@ -120,6 +135,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "Which lake is the largest by surface area in Africa?",
         "answer1": "Lake Victoria",
         "answer2": "Lake Tanganyika",
@@ -128,6 +144,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "In which mountain range is Mount Everest located?",
         "answer1": "Andes",
         "answer2": "Himalayas",
@@ -136,6 +153,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "Which canal connects the Mediterranean Sea to the Red Sea?",
         "answer1": "Suez Canal",
         "answer2": "Panama Canal",
@@ -144,6 +162,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "What is the largest country in South America by land area?",
         "answer1": "Brazil",
         "answer2": "Argentina",
@@ -152,6 +171,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "Which two countries share the longest international land border?",
         "answer1": "USA and Canada",
         "answer2": "Russia and China",
@@ -160,6 +180,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "What is the capital city of Japan?",
         "answer1": "Seoul",
         "answer2": "Beijing",
@@ -168,6 +189,7 @@
         "correct_answer": 3
     },
     {
+        "category": "geography",
         "question": "Which river is the longest in Europe?",
         "answer1": "Rhine",
         "answer2": "Loire",
@@ -176,6 +198,7 @@
         "correct_answer": 3
     },
     {
+        "category": "geography",
         "question": "In what country would you find the city of Marrakech?",
         "answer1": "Egypt",
         "answer2": "Morocco",
@@ -184,6 +207,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "Which mountain range is the youngest on Earth?",
         "answer1": "Rocky Mountains",
         "answer2": "Andes",
@@ -192,6 +216,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "What is the driest desert in the world?",
         "answer1": "Atacama Desert",
         "answer2": "Gobi Desert",
@@ -200,6 +225,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "Which ocean is the smallest on Earth?",
         "answer1": "Arctic Ocean",
         "answer2": "Southern Ocean",
@@ -208,6 +234,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "What is the capital city of Mexico?",
         "answer1": "Cancun",
         "answer2": "Mexico City",
@@ -216,6 +243,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "Which African country is known as the 'Rainbow Nation'?",
         "answer1": "Nigeria",
         "answer2": "Kenya",
@@ -224,6 +252,7 @@
         "correct_answer": 3
     },
     {
+        "category": "geography",
         "question": "What is the highest peak in South America?",
         "answer1": "Aconcagua",
         "answer2": "Huascarán",
@@ -232,6 +261,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "Which river flows through Cairo?",
         "answer1": "Nile River",
         "answer2": "Amazon River",
@@ -240,6 +270,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "In what country would you find the Great Victoria Desert?",
         "answer1": "Australia",
         "answer2": "Canada",
@@ -248,6 +279,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "Which strait separates Asia and North America?",
         "answer1": "Strait of Malacca",
         "answer2": "Bering Strait",
@@ -256,6 +288,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "What is the largest island in Asia?",
         "answer1": "Sri Lanka",
         "answer2": "Japan",
@@ -264,6 +297,7 @@
         "correct_answer": 3
     },
     {
+        "category": "geography",
         "question": "Which country is known as the 'Land of the Midnight Sun'?",
         "answer1": "Norway",
         "answer2": "Sweden",
@@ -272,6 +306,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "What is the capital city of Argentina?",
         "answer1": "Buenos Aires",
         "answer2": "Santiago",
@@ -280,6 +315,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "Which lake is the deepest in the world?",
         "answer1": "Lake Baikal",
         "answer2": "Lake Tanganyika",
@@ -288,6 +324,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "In which mountain range is Mount Kilimanjaro located?",
         "answer1": "Andes",
         "answer2": "Himalayas",
@@ -296,6 +333,7 @@
         "correct_answer": 4
     },
     {
+        "category": "geography",
         "question": "Which canal connects the Atlantic Ocean to the Pacific Ocean?",
         "answer1": "Panama Canal",
         "answer2": "Suez Canal",
@@ -304,6 +342,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "What is the largest country in Africa by land area?",
         "answer1": "Nigeria",
         "answer2": "South Africa",
@@ -312,6 +351,7 @@
         "correct_answer": 4
     },
     {
+        "category": "geography",
         "question": "Which two countries share the longest land border in the world?",
         "answer1": "USA and Canada",
         "answer2": "Russia and China",
@@ -320,6 +360,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "What is the largest desert in Africa?",
         "answer1": "Sahara Desert",
         "answer2": "Kalahari Desert",
@@ -328,6 +369,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "In which country would you find the city of Cusco, a gateway to Machu Picchu?",
         "answer1": "Argentina",
         "answer2": "Peru",
@@ -336,6 +378,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "Which river is the longest in Asia?",
         "answer1": "Mekong River",
         "answer2": "Ganges River",
@@ -344,6 +387,7 @@
         "correct_answer": 3
     },
     {
+        "category": "geography",
         "question": "What is the capital city of South Korea?",
         "answer1": "Seoul",
         "answer2": "Busan",
@@ -352,6 +396,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "Which mountain range runs along the border between France and Spain?",
         "answer1": "Alps",
         "answer2": "Pyrenees",
@@ -360,6 +405,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "What is the capital city of Nigeria?",
         "answer1": "Lagos",
         "answer2": "Abuja",
@@ -368,6 +414,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "In which ocean is the island of Madagascar located?",
         "answer1": "Atlantic Ocean",
         "answer2": "Indian Ocean",
@@ -376,6 +423,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "Which country is known as the 'Land of a Thousand Lakes'?",
         "answer1": "Canada",
         "answer2": "Finland",
@@ -384,6 +432,7 @@
         "correct_answer": 2
     },
     {
+        "category": "geography",
         "question": "What is the largest city in Brazil?",
         "answer1": "São Paulo",
         "answer2": "Rio de Janeiro",
@@ -392,6 +441,7 @@
         "correct_answer": 1
     },
     {
+        "category": "geography",
         "question": "Which African lake is the second-largest freshwater lake by volume in the world?",
         "answer1": "Lake Victoria",
         "answer2": "Lake Tanganyika",

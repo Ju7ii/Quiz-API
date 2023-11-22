@@ -1,5 +1,6 @@
 [
     {
+        "category": "space",
         "question": "Which planet is known as the 'Red Planet'?",
         "answer1": "Mars",
         "answer2": "Venus",
@@ -8,6 +9,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "What is the largest moon of Saturn?",
         "answer1": "Titan",
         "answer2": "Io",
@@ -16,6 +18,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "Which spacecraft was the first to successfully land on Mars?",
         "answer1": "Viking 1",
         "answer2": "Spirit",
@@ -24,6 +27,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "What is the name of the largest volcano in our solar system, located on Mars?",
         "answer1": "Olympus Mons",
         "answer2": "Mauna Kea",
@@ -32,6 +36,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "Which moon of Jupiter is known for its intense geysers of water vapor erupting from its surface?",
         "answer1": "Io",
         "answer2": "Europa",
@@ -40,6 +45,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "What is the name of the brightest star in the night sky?",
         "answer1": "Vega",
         "answer2": "Sirius",
@@ -48,6 +54,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "Which planet is often referred to as the 'Evening Star' or 'Morning Star'?",
         "answer1": "Mars",
         "answer2": "Venus",
@@ -56,6 +63,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "What is the name of the closest galaxy to the Milky Way?",
         "answer1": "Andromeda",
         "answer2": "Triangulum",
@@ -64,6 +72,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "Which planet is known for its prominent ring system?",
         "answer1": "Jupiter",
         "answer2": "Saturn",
@@ -72,6 +81,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "What is the name of the first artificial satellite launched into Earth's orbit?",
         "answer1": "Sputnik 1",
         "answer2": "Explorer 1",
@@ -80,6 +90,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "Which planet has the largest number of moons in our solar system?",
         "answer1": "Jupiter",
         "answer2": "Saturn",
@@ -88,6 +99,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "What is the name of the largest asteroid in the asteroid belt between Mars and Jupiter?",
         "answer1": "Ceres",
         "answer2": "Vesta",
@@ -96,6 +108,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "Which spacecraft was the first to reach interstellar space?",
         "answer1": "Voyager 1",
         "answer2": "Voyager 2",
@@ -104,6 +117,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "What is the name of the phenomenon where light from a celestial body is blocked by another object, creating a temporary decrease in brightness?",
         "answer1": "Eclipse",
         "answer2": "Occultation",
@@ -112,6 +126,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "Which planet is known as the 'Ice Giant'?",
         "answer1": "Neptune",
         "answer2": "Uranus",
@@ -120,6 +135,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "What is the name of the spacecraft that carried the first humans to the Moon?",
         "answer1": "Apollo 11",
         "answer2": "Gemini 4",
@@ -128,6 +144,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "Which planet has the Great Red Spot, a giant storm that has been raging for at least 350 years?",
         "answer1": "Jupiter",
         "answer2": "Mars",
@@ -136,6 +153,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "What is the name of the first space telescope launched by NASA?",
         "answer1": "Chandra X-ray Observatory",
         "answer2": "Hubble Space Telescope",
@@ -144,6 +162,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "Which moon of Neptune is known for its distinctive 'cantaloupe' terrain?",
         "answer1": "Triton",
         "answer2": "Proteus",
@@ -152,6 +171,7 @@
         "correct_answer": 4
     },
     {
+        "category": "space",
         "question": "What is the name of the spacecraft that successfully landed the rover 'Perseverance' on Mars in 2021?",
         "answer1": "Spirit",
         "answer2": "Curiosity",
@@ -160,6 +180,7 @@
         "correct_answer": 4
     },
     {
+        "category": "space",
         "question": "Which star is at the center of our solar system?",
         "answer1": "Vega",
         "answer2": "Sirius",
@@ -168,6 +189,7 @@
         "correct_answer": 4
     },
     {
+        "category": "space",
         "question": "What is the name of the first human to journey into space?",
         "answer1": "Yuri Gagarin",
         "answer2": "John Glenn",
@@ -176,6 +198,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "Which galaxy is our Milky Way galaxy destined to collide with in the distant future?",
         "answer1": "Andromeda",
         "answer2": "Triangulum",
@@ -184,6 +207,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "What is the name of the first space station, launched by the Soviet Union in 1971?",
         "answer1": "Mir",
         "answer2": "Salyut 1",
@@ -192,6 +216,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "Which moon of Jupiter is the largest moon in our solar system?",
         "answer1": "Ganymede",
         "answer2": "Callisto",
@@ -200,6 +225,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "What is the name of the spacecraft that first landed humans on the Moon?",
         "answer1": "Apollo 11",
         "answer2": "Gemini 4",
@@ -208,6 +234,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "Which planet is often referred to as the 'Blue Planet'?",
         "answer1": "Earth",
         "answer2": "Neptune",
@@ -216,6 +243,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "What is the name of the bright band of light stretching across the night sky that is composed of stars?",
         "answer1": "Galaxy",
         "answer2": "Nebula",
@@ -224,6 +252,7 @@
         "correct_answer": 4
     },
     {
+        "category": "space",
         "question": "Which spacecraft was the first to orbit the planet Mercury?",
         "answer1": "Mariner 10",
         "answer2": "MESSENGER",
@@ -232,6 +261,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "What is the name of the first artificial satellite launched by the United States?",
         "answer1": "Sputnik 1",
         "answer2": "Explorer 1",
@@ -240,6 +270,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "Which planet is known as the 'Morning Star'?",
         "answer1": "Mars",
         "answer2": "Venus",
@@ -248,6 +279,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "What is the name of the galaxy that contains our solar system?",
         "answer1": "Andromeda",
         "answer2": "Triangulum",
@@ -256,6 +288,7 @@
         "correct_answer": 3
     },
     {
+        "category": "space",
         "question": "Which moon of Saturn is known for its distinctive hexagonal storm pattern at its north pole?",
         "answer1": "Titan",
         "answer2": "Rhea",
@@ -264,6 +297,7 @@
         "correct_answer": 3
     },
     {
+        "category": "space",
         "question": "What is the name of the phenomenon where a celestial body passes in front of another, blocking its view?",
         "answer1": "Eclipse",
         "answer2": "Occultation",
@@ -272,6 +306,7 @@
         "correct_answer": 3
     },
     {
+        "category": "space",
         "question": "Which planet has the highest average surface temperature in our solar system?",
         "answer1": "Venus",
         "answer2": "Mercury",
@@ -280,6 +315,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "What is the name of the spacecraft that discovered water molecules on the Moon in 2009?",
         "answer1": "Chandrayaan-1",
         "answer2": "Lunar Reconnaissance Orbiter",
@@ -288,6 +324,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "Which moon of Neptune is known for its geysers of nitrogen gas erupting from its surface?",
         "answer1": "Triton",
         "answer2": "Proteus",
@@ -296,6 +333,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "What is the name of the space telescope launched by the European Space Agency (ESA) in 1990?",
         "answer1": "Chandra X-ray Observatory",
         "answer2": "Hubble Space Telescope",
@@ -304,6 +342,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "Which moon of Jupiter is known for its extensive system of faint rings?",
         "answer1": "Io",
         "answer2": "Europa",
@@ -312,6 +351,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "What is the name of the first spacecraft to land on a comet?",
         "answer1": "Rosetta",
         "answer2": "Philae",
@@ -320,6 +360,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "Which planet is known as the 'Ice Giant'?",
         "answer1": "Neptune",
         "answer2": "Uranus",
@@ -328,6 +369,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "What is the name of the spacecraft that successfully landed the rover 'Curiosity' on Mars in 2012?",
         "answer1": "Spirit",
         "answer2": "Opportunity",
@@ -336,6 +378,7 @@
         "correct_answer": 4
     },
     {
+        "category": "space",
         "question": "Which moon of Saturn is known for its prominent equatorial ridge?",
         "answer1": "Titan",
         "answer2": "Iapetus",
@@ -344,6 +387,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "What is the name of the spacecraft that studied Jupiter and its moons from 1995 to 2003?",
         "answer1": "Galileo",
         "answer2": "Cassini",
@@ -352,6 +396,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "Which moon of Uranus is known for its unusual rotation, spinning on its side?",
         "answer1": "Titania",
         "answer2": "Oberon",
@@ -360,6 +405,7 @@
         "correct_answer": 3
     },
     {
+        "category": "space",
         "question": "What is the name of the spacecraft that observed the comet Hale-Bopp in 1997?",
         "answer1": "Deep Impact",
         "answer2": "Stardust",
@@ -368,6 +414,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "Which moon of Saturn is known for its two-tone coloration, with one hemisphere being reddish and the other bluish?",
         "answer1": "Mimas",
         "answer2": "Rhea",
@@ -376,6 +423,7 @@
         "correct_answer": 3
     },
     {
+        "category": "space",
         "question": "What is the name of the phenomenon where a celestial body is temporarily obscured as it passes behind another object?",
         "answer1": "Eclipse",
         "answer2": "Occultation",
@@ -384,6 +432,7 @@
         "correct_answer": 2
     },
     {
+        "category": "space",
         "question": "What is the name of the first human-made object to reach interstellar space?",
         "answer1": "Voyager 1",
         "answer2": "Voyager 2",
@@ -392,6 +441,7 @@
         "correct_answer": 1
     },
     {
+        "category": "space",
         "question": "Which moon of Mars is the largest and named after one of the mythological sons of Ares (Mars)?",
         "answer1": "Phobos",
         "answer2": "Deimos",

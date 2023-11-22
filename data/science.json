@@ -1,5 +1,6 @@
 [
     {
+        "category": "Science",
         "question": "Who is known as the 'father of modern physics'?",
         "answer1": "Isaac Newton",
         "answer2": "Albert Einstein",
@@ -8,6 +9,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "What is the chemical symbol for the element gold?",
         "answer1": "Go",
         "answer2": "Ge",
@@ -16,6 +18,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Science",
         "question": "Which gas is responsible for the Earth's greenhous effect?",
         "answer1": "Oxygen",
         "answer2": "Carbon Dioxide",
@@ -24,6 +27,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "What is the largest organ in the human body?",
         "answer1": "Heart",
         "answer2": "Brain",
@@ -32,6 +36,7 @@
         "correct_answer": 4
     },
     {
+        "category": "Science",
         "question": "Who developed the theory of relativity?",
         "answer1": "Isaac Newton",
         "answer2": "Galileo Galilei",
@@ -40,6 +45,7 @@
         "correct_answer": 4
     },
     {
+        "category": "Science",
         "question": "What is the smallest prime number?",
         "answer1": "0",
         "answer2": "1",
@@ -48,6 +54,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Science",
         "question": "In chemistry, H2O is the chemical formula for what?",
         "answer1": "Hydrochloric Acid",
         "answer2": "Hydrogen Peroxide",
@@ -56,6 +63,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Science",
         "question": "Which scientist is known for his laws of motion?",
         "answer1": "Galileo Galilei",
         "answer2": "Isaac Newton",
@@ -64,6 +72,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "What is the chemical symbol for the element oxygen?",
         "answer1": "Ox",
         "answer2": "Oy",
@@ -72,6 +81,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Science",
         "question": "Which planet is known as the 'Red Planet'?",
         "answer1": "Mars",
         "answer2": "Venus",
@@ -80,6 +90,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "What is the unit of measurement for electric current?",
         "answer1": "Volt",
         "answer2": "Ampere",
@@ -88,6 +99,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "Who is known for the development of the periodic table of elements?",
         "answer1": "Marie Curie",
         "answer2": "Dmitri Mendeleev",
@@ -96,6 +108,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "What is the chemical symbol for the element carbon?",
         "answer1": "C",
         "answer2": "Ca",
@@ -104,6 +117,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "In physics, what is the SI unit of force?",
         "answer1": "Newton",
         "answer2": "Joule",
@@ -112,6 +126,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "Who proposed the heliocentric model of the solar system?",
         "answer1": "Galileo Galilei",
         "answer2": "Tycho Brahe",
@@ -120,6 +135,7 @@
         "correct_answer": 4
     },
     {
+        "category": "Science",
         "question": "What is the chemical symbol for the element iron?",
         "answer1": "Fe",
         "answer2": "Ir",
@@ -128,6 +144,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "Which gas makes up the majority of Earth's atmosphere?",
         "answer1": "Oxygen",
         "answer2": "Nitrogen",
@@ -136,6 +153,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "Who discovered penicillin?",
         "answer1": "Alexander Fleming",
         "answer2": "Marie Curie",
@@ -144,6 +162,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "What is the chemical symbol for the element sodium?",
         "answer1": "Sa",
         "answer2": "So",
@@ -152,6 +171,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Science",
         "question": "Who is known for the laws of heredity in biology?",
         "answer1": "Charles Darwin",
         "answer2": "Gregor Mendel",
@@ -160,6 +180,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "What is the speed of light in a vacuum?",
         "answer1": "299,792 kilometers per second",
         "answer2": "150,000 miles per second",
@@ -168,6 +189,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "Which gas is responsible for the colors of the aurora borealis (northern lights) and aurora australis (southern lights)?",
         "answer1": "Oxygen",
         "answer2": "Hydrogen",
@@ -176,6 +198,7 @@
         "correct_answer": 4
     },
     {
+        "category": "Science",
         "question": "Who is known for the discovery of radium and polonium?",
         "answer1": "Marie Curie",
         "answer2": "Pierre Curie",
@@ -184,6 +207,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "What is the smallest bone in the human body?",
         "answer1": "Stapes",
         "answer2": "Femur",
@@ -192,6 +216,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "Which planet is known as the 'Blue Planet'?",
         "answer1": "Earth",
         "answer2": "Neptune",
@@ -200,6 +225,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "What is the smallest unit of life?",
         "answer1": "Cell",
         "answer2": "Atom",
@@ -208,6 +234,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "Who formulated the laws of motion and universal gravitation?",
         "answer1": "Isaac Newton",
         "answer2": "Galileo Galilei",
@@ -216,6 +243,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "What is the process by which plants make their own food using sunlight?",
         "answer1": "Respiration",
         "answer2": "Photosynthesis",
@@ -224,6 +252,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "Which scientist is credited with the development of the theory of evolution by natural selection?",
         "answer1": "Charles Darwin",
         "answer2": "Gregor Mendel",
@@ -232,6 +261,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "What is the largest organ in the human body?",
         "answer1": "Heart",
         "answer2": "Brain",
@@ -240,6 +270,7 @@
         "correct_answer": 4
     },
     {
+        "category": "Science",
         "question": "Who discovered penicillin?",
         "answer1": "Alexander Fleming",
         "answer2": "Marie Curie",
@@ -248,6 +279,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "What is the chemical symbol for the element silicon?",
         "answer1": "Si",
         "answer2": "Se",
@@ -256,6 +288,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "What is the study of the Earth's atmosphere and weather?",
         "answer1": "Geology",
         "answer2": "Meteorology",
@@ -264,6 +297,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "Who is known for the discovery of X-rays?",
         "answer1": "Marie Curie",
         "answer2": "Wilhelm Roentgen",
@@ -272,6 +306,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "What is the chemical symbol for the element nitrogen?",
         "answer1": "N",
         "answer2": "Ni",
@@ -280,6 +315,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "Which gas is responsible for the Earth's ozone layer?",
         "answer1": "Oxygen",
         "answer2": "Nitrogen",
@@ -288,6 +324,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Science",
         "question": "What is the primary function of red blood cells in the human body?",
         "answer1": "Transport of oxygen",
         "answer2": "Digestion of food",
@@ -296,6 +333,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "Who is known for the development of the laws of heredity?",
         "answer1": "Charles Darwin",
         "answer2": "Gregor Mendel",
@@ -304,6 +342,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "What is the chemical symbol for the element copper?",
         "answer1": "Cu",
         "answer2": "Co",
@@ -312,6 +351,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "Which planet is known as the 'Red Planet'?",
         "answer1": "Mars",
         "answer2": "Venus",
@@ -320,6 +360,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "What is the SI unit for temperature?",
         "answer1": "Celsius",
         "answer2": "Kelvin",
@@ -328,6 +369,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "Who developed the theory of special relativity?",
         "answer1": "Isaac Newton",
         "answer2": "Galileo Galilei",
@@ -336,6 +378,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Science",
         "question": "What is the chemical symbol for the element aluminum?",
         "answer1": "Am",
         "answer2": "Al",
@@ -344,6 +387,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "In what year did the first human land on the Moon?",
         "answer1": "1967",
         "answer2": "1969",
@@ -352,6 +396,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "What is the largest planet in our solar system?",
         "answer1": "Earth",
         "answer2": "Jupiter",
@@ -360,6 +405,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "Who is known for the development of the laws of motion?",
         "answer1": "Galileo Galilei",
         "answer2": "Isaac Newton",
@@ -368,6 +414,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "What is the chemical symbol for the element uranium?",
         "answer1": "U",
         "answer2": "Un",
@@ -376,6 +423,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Science",
         "question": "Who is known for the discovery of the structure of DNA?",
         "answer1": "Rosalind Franklin",
         "answer2": "Francis Crick",
@@ -384,6 +432,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Science",
         "question": "What is the process by which plants lose water through small openings in their leaves?",
         "answer1": "Photosynthesis",
         "answer2": "Respiration",
@@ -392,6 +441,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Science",
         "question": "What is the chemical symbol for the element helium?",
         "answer1": "H",
         "answer2": "He",

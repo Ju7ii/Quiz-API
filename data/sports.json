@@ -1,5 +1,6 @@
 [
     {
+        "category": "Sports",
         "question": "Who won the FIFA World Cup in 2018?",
         "answer1": "Germany",
         "answer2": "Argentina",
@@ -8,6 +9,7 @@
         "correct_answer": 4
     },
     {
+        "category": "Sports",
         "question": "Which country has won the most Olympic gold medals in the history of the Summer Games?",
         "answer1": "United States",
         "answer2": "China",
@@ -16,6 +18,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "In which year did Usain Bolt set the world record for the 100 meters in athletics?",
         "answer1": "2008",
         "answer2": "2012",
@@ -24,6 +27,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Who is often referred to as 'The Greatest' in the history of boxing?",
         "answer1": "Mike Tyson",
         "answer2": "Muhammad Ali",
@@ -32,6 +36,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Which country hosted the Winter Olympics in 2018?",
         "answer1": "Canada",
         "answer2": "Norway",
@@ -40,6 +45,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Sports",
         "question": "Who holds the record for the most Grand Slam singles titles in tennis?",
         "answer1": "Roger Federer",
         "answer2": "Rafael Nadal",
@@ -48,6 +54,7 @@
         "correct_answer": 4
     },
     {
+        "category": "Sports",
         "question": "In American football, how many points is a touchdown worth?",
         "answer1": "3",
         "answer2": "6",
@@ -56,6 +63,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Which team won the NBA Championship in the 2020-2021 season?",
         "answer1": "Golden State Warriors",
         "answer2": "Los Angeles Lakers",
@@ -64,6 +72,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Sports",
         "question": "Who is the all-time leading scorer in the history of the NBA?",
         "answer1": "LeBron James",
         "answer2": "Kareem Abdul-Jabbar",
@@ -72,6 +81,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Which city is home to the famous football club FC Barcelona?",
         "answer1": "Madrid",
         "answer2": "Barcelona",
@@ -80,6 +90,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Who won the Tour de France in 2021?",
         "answer1": "Chris Froome",
         "answer2": "Tadej Pogacar",
@@ -88,6 +99,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Which golfer is often referred to as 'Lefty'?",
         "answer1": "Tiger Woods",
         "answer2": "Rory McIlroy",
@@ -96,6 +108,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Sports",
         "question": "In which country did the sport of judo originate?",
         "answer1": "Japan",
         "answer2": "China",
@@ -104,6 +117,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "Who is the most decorated Olympian of all time, with a record number of gold medals?",
         "answer1": "Usain Bolt",
         "answer2": "Michael Phelps",
@@ -112,6 +126,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Which country won the UEFA Euro 2020 football championship?",
         "answer1": "Italy",
         "answer2": "England",
@@ -120,6 +135,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "In which sport would you perform a slam dunk?",
         "answer1": "Soccer",
         "answer2": "Basketball",
@@ -128,6 +144,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Who holds the record for the most goals scored in a single FIFA World Cup tournament?",
         "answer1": "Pele",
         "answer2": "Miroslav Klose",
@@ -136,6 +153,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Which country won the Rugby World Cup in 2019?",
         "answer1": "New Zealand",
         "answer2": "England",
@@ -144,6 +162,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Sports",
         "question": "Who is the current heavyweight boxing champion of the world?",
         "answer1": "Anthony Joshua",
         "answer2": "Deontay Wilder",
@@ -152,6 +171,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Sports",
         "question": "Which city hosted the 2016 Summer Olympics?",
         "answer1": "London",
         "answer2": "Rio de Janeiro",
@@ -160,6 +180,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "In which year did the first modern Olympic Games take place?",
         "answer1": "1896",
         "answer2": "1900",
@@ -168,6 +189,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "Who is considered the 'King of Clay' in the sport of tennis?",
         "answer1": "Roger Federer",
         "answer2": "Rafael Nadal",
@@ -176,6 +198,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Which country won the Copa America football tournament in 2021?",
         "answer1": "Argentina",
         "answer2": "Brazil",
@@ -184,6 +207,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "Who is the most successful Formula 1 driver in terms of World Championships won?",
         "answer1": "Ayrton Senna",
         "answer2": "Lewis Hamilton",
@@ -192,6 +216,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Sports",
         "question": "Which country hosted the 2014 FIFA World Cup?",
         "answer1": "Brazil",
         "answer2": "Germany",
@@ -200,6 +225,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "Who is the all-time leading scorer in the history of the NBA?",
         "answer1": "LeBron James",
         "answer2": "Kareem Abdul-Jabbar",
@@ -208,6 +234,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "In which year did Serena Williams win her first Grand Slam singles title?",
         "answer1": "1999",
         "answer2": "2003",
@@ -216,6 +243,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Who is the current world chess champion?",
         "answer1": "Magnus Carlsen",
         "answer2": "Viswanathan Anand",
@@ -224,6 +252,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "Which team has won the most Super Bowls in NFL history?",
         "answer1": "Pittsburgh Steelers",
         "answer2": "New England Patriots",
@@ -232,6 +261,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "Who holds the record for the most goals scored in a single calendar year in football (soccer)?",
         "answer1": "Lionel Messi",
         "answer2": "Cristiano Ronaldo",
@@ -240,6 +270,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "Which country won the most medals in the 2020 Tokyo Olympics?",
         "answer1": "United States",
         "answer2": "China",
@@ -248,6 +279,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "In which city did the first modern Summer Olympics take place?",
         "answer1": "Paris",
         "answer2": "Athens",
@@ -256,6 +288,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Who is the only boxer to have won world titles in eight different weight classes?",
         "answer1": "Manny Pacquiao",
         "answer2": "Floyd Mayweather Jr.",
@@ -264,6 +297,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "Which horse is known as the 'fastest two minutes in sports'?",
         "answer1": "Secretariat",
         "answer2": "American Pharoah",
@@ -272,6 +306,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "Who holds the record for the most home runs in Major League Baseball (MLB) history?",
         "answer1": "Babe Ruth",
         "answer2": "Hank Aaron",
@@ -280,6 +315,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Sports",
         "question": "In which year did Michael Phelps set the record for the most gold medals in a single Olympic Games?",
         "answer1": "2004",
         "answer2": "2008",
@@ -288,6 +324,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Sports",
         "question": "Which country is known for its dominance in the sport of cricket?",
         "answer1": "England",
         "answer2": "Australia",
@@ -296,6 +333,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Sports",
         "question": "Who is the only driver to have won the Formula 1 World Championship with a team other than Ferrari or Mercedes since 2014?",
         "answer1": "Lewis Hamilton",
         "answer2": "Sebastian Vettel",
@@ -304,6 +342,7 @@
         "correct_answer": 4
     },
     {
+        "category": "Sports",
         "question": "Which country has won the most Rugby World Cup titles?",
         "answer1": "New Zealand",
         "answer2": "South Africa",
@@ -312,6 +351,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "In which city did the Boston Red Sox play their home games?",
         "answer1": "New York",
         "answer2": "Boston",
@@ -320,6 +360,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Who is the all-time leading scorer in the history of the NHL (National Hockey League)?",
         "answer1": "Wayne Gretzky",
         "answer2": "Mario Lemieux",
@@ -328,6 +369,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "Which athlete is often referred to as the 'Flying Tomato' in the sport of snowboarding?",
         "answer1": "Shaun White",
         "answer2": "Travis Rice",
@@ -336,6 +378,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "Who won the 2021 Wimbledon Championships in men's singles?",
         "answer1": "Roger Federer",
         "answer2": "Novak Djokovic",
@@ -344,6 +387,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Which country won the gold medal in women's football at the 2020 Tokyo Olympics?",
         "answer1": "United States",
         "answer2": "Canada",
@@ -352,6 +396,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "In which year did the first official women's cricket World Cup take place?",
         "answer1": "1973",
         "answer2": "1982",
@@ -360,6 +405,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "Who is the only golfer to have completed the career Grand Slam three times?",
         "answer1": "Jack Nicklaus",
         "answer2": "Tiger Woods",
@@ -368,6 +414,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "Which city hosted the 2016 Summer Paralympics?",
         "answer1": "Sydney",
         "answer2": "Rio de Janeiro",
@@ -376,6 +423,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Sports",
         "question": "Who holds the record for the most career home runs in Major League Baseball (MLB)?",
         "answer1": "Hank Aaron",
         "answer2": "Babe Ruth",
@@ -384,6 +432,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Sports",
         "question": "In which country did the sport of rugby originate?",
         "answer1": "England",
         "answer2": "Australia",
@@ -392,6 +441,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Sports",
         "question": "Who is the only athlete to have won Olympic gold in both the 100m and 200m sprints in three consecutive Olympic Games?",
         "answer1": "Usain Bolt",
         "answer2": "Carl Lewis",
