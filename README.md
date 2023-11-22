@@ -48,6 +48,13 @@ To create a new category, you just need to create a JSON file with the following
 ### Question Retrieval:
 Retrieve quiz questions for a specific category by making a GET request to the corresponding endpoint.
 
+### Testing Endpoints:
+Various endpoints for testing the API making a GET request.<br>
+Examples:
+- Testing whether API is online
+- How many data records are available in total
+
+
 <!--------->
 
 ## Base URL
@@ -67,7 +74,7 @@ https://quiz-ofe1.onrender.com
 
 | **Method** | **URL** | **Description** |
 | :-------- | :------- | :------------------------- |
-| `GET` | `/testDatabase` | Tests whether the API is online |
+| `GET` | `/api/test-database` | Tests whether the API is online |
 
 <details>
   <summary>
@@ -77,6 +84,26 @@ https://quiz-ofe1.onrender.com
 ```
 {
   "message": "Database is up!"
+}
+```
+</details>
+
+### Total Entries
+
+| **Method** | **URL** | **Description** |
+| :-------- | :------- | :------------------------- |
+| `GET` | `/api/count-total` | Returns the total number of tables and records |
+
+<details>
+  <summary>
+    <strong>Expected Response</strong>
+  </summary>
+
+```
+{
+  "message": "success",
+  "total_tables": 8,
+  "total_entries": 400
 }
 ```
 </details>
