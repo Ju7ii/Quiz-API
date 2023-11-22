@@ -1,5 +1,6 @@
 [
     {
+        "category": "music",
         "question": "Who is known as the 'Queen of Pop'?",
         "answer1": "Madonna",
         "answer2": "Beyoncé",
@@ -8,6 +9,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "In which year did The Beatles release their album 'Abbey Road'?",
         "answer1": "1965",
         "answer2": "1967",
@@ -16,6 +18,7 @@
         "correct_answer": 3
     },
     {
+        "category": "music",
         "question": "Who wrote the song 'Like a Rolling Stone'?",
         "answer1": "Bob Dylan",
         "answer2": "The Rolling Stones",
@@ -24,6 +27,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "What is the real name of the rapper Eminem?",
         "answer1": "Marshall Mathers",
         "answer2": "Christopher Wallace",
@@ -32,6 +36,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Which female artist is known for her hits 'Hello' and 'Rolling in the Deep'?",
         "answer1": "Adele",
         "answer2": "Taylor Swift",
@@ -40,6 +45,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "What is the name of Michael Jackson's best-selling album?",
         "answer1": "Thriller",
         "answer2": "Bad",
@@ -48,6 +54,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Who is the lead singer of the rock band Queen?",
         "answer1": "Freddie Mercury",
         "answer2": "David Bowie",
@@ -56,6 +63,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Which country is the origin of the flamenco music genre?",
         "answer1": "Spain",
         "answer2": "Argentina",
@@ -64,6 +72,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "What instrument did jazz musician Miles Davis primarily play?",
         "answer1": "Trumpet",
         "answer2": "Saxophone",
@@ -72,6 +81,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Who is known as the 'King of Pop'?",
         "answer1": "Elvis Presley",
         "answer2": "Michael Jackson",
@@ -80,6 +90,7 @@
         "correct_answer": 2
     },
     {
+        "category": "music",
         "question": "Which British rock band performed at the halftime show of Super Bowl 50 in 2016?",
         "answer1": "The Rolling Stones",
         "answer2": "The Who",
@@ -88,6 +99,7 @@
         "correct_answer": 3
     },
     {
+        "category": "music",
         "question": "What is the title of Beyoncé's visual album released in 2016?",
         "answer1": "Lemonade",
         "answer2": "Formation",
@@ -96,6 +108,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Who wrote and performed the song 'Purple Haze'?",
         "answer1": "Jimi Hendrix",
         "answer2": "Eric Clapton",
@@ -104,6 +117,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Which album includes the hit songs 'Bohemian Rhapsody' and 'Somebody to Love'?",
         "answer1": "A Night at the Opera",
         "answer2": "A Day at the Races",
@@ -112,6 +126,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Who is the lead vocalist of the rock band U2?",
         "answer1": "Bono",
         "answer2": "The Edge",
@@ -120,6 +135,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "What is the real name of the rapper Drake?",
         "answer1": "Aubrey Graham",
         "answer2": "Dwayne Carter",
@@ -128,6 +144,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Which female artist released the album 'Jagged Little Pill' in 1995?",
         "answer1": "Celine Dion",
         "answer2": "Alanis Morissette",
@@ -136,6 +153,7 @@
         "correct_answer": 2
     },
     {
+        "category": "music",
         "question": "What is the real name of the rapper Jay-Z?",
         "answer1": "Shawn Carter",
         "answer2": "Dwayne Carter",
@@ -144,6 +162,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Who is the lead guitarist of the rock band Led Zeppelin?",
         "answer1": "Jimmy Page",
         "answer2": "Eric Clapton",
@@ -152,6 +171,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "What is the real name of the rapper Snoop Dogg?",
         "answer1": "Calvin Broadus",
         "answer2": "Andre Young",
@@ -160,6 +180,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Which singer is known for hits like 'Piano Man' and 'Uptown Girl'?",
         "answer1": "Billy Joel",
         "answer2": "Elton John",
@@ -168,6 +189,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Who is known as the 'Godfather of Soul'?",
         "answer1": "Ray Charles",
         "answer2": "Sam Cooke",
@@ -176,6 +198,7 @@
         "correct_answer": 3
     },
     {
+        "category": "music",
         "question": "In which year did Elvis Presley pass away?",
         "answer1": "1977",
         "answer2": "1980",
@@ -184,6 +207,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Who is known for hits like 'Dancing in the Dark' and 'Born to Run'?",
         "answer1": "Bob Dylan",
         "answer2": "Bruce Springsteen",
@@ -192,6 +216,7 @@
         "correct_answer": 2
     },
     {
+        "category": "music",
         "question": "Who is known as the 'Material Girl'?",
         "answer1": "Madonna",
         "answer2": "Cher",
@@ -200,6 +225,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "In which year did Michael Jackson release the album 'Bad'?",
         "answer1": "1985",
         "answer2": "1987",
@@ -208,6 +234,7 @@
         "correct_answer": 3
     },
     {
+        "category": "music",
         "question": "Who wrote the song 'Imagine'?",
         "answer1": "John Lennon",
         "answer2": "Paul McCartney",
@@ -216,6 +243,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "What is the real name of the rapper Kendrick Lamar?",
         "answer1": "Kendrick Duckworth",
         "answer2": "Aubrey Graham",
@@ -224,6 +252,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Which female artist is known for her hits 'Wrecking Ball' and 'Party in the USA'?",
         "answer1": "Adele",
         "answer2": "Taylor Swift",
@@ -232,6 +261,7 @@
         "correct_answer": 4
     },
     {
+        "category": "music",
         "question": "What is the name of Bob Marley's backing band?",
         "answer1": "The Wailers",
         "answer2": "The Maytals",
@@ -240,6 +270,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Who is known as the 'Rocket Man'?",
         "answer1": "Elton John",
         "answer2": "David Bowie",
@@ -248,6 +279,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Which country is the origin of the reggae music genre?",
         "answer1": "Jamaica",
         "answer2": "Trinidad and Tobago",
@@ -256,6 +288,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "What instrument did jazz musician Charlie Parker primarily play?",
         "answer1": "Saxophone",
         "answer2": "Trumpet",
@@ -264,6 +297,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Who is known as the 'Queen of Soul'?",
         "answer1": "Diana Ross",
         "answer2": "Etta James",
@@ -272,6 +306,7 @@
         "correct_answer": 3
     },
     {
+        "category": "music",
         "question": "Which British rock band performed at the halftime show of Super Bowl XLIX in 2015?",
         "answer1": "The Rolling Stones",
         "answer2": "The Who",
@@ -280,6 +315,7 @@
         "correct_answer": 2
     },
     {
+        "category": "music",
         "question": "What is the title of Taylor Swift's debut album?",
         "answer1": "Fearless",
         "answer2": "Speak Now",
@@ -288,6 +324,7 @@
         "correct_answer": 3
     },
     {
+        "category": "music",
         "question": "Who wrote and performed the song 'Blowin' in the Wind'?",
         "answer1": "Bob Dylan",
         "answer2": "John Lennon",
@@ -296,6 +333,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Which album includes the hit songs 'Another One Bites the Dust' and 'Crazy Little Thing Called Love'?",
         "answer1": "A Night at the Opera",
         "answer2": "A Day at the Races",
@@ -304,6 +342,7 @@
         "correct_answer": 3
     },
     {
+        "category": "music",
         "question": "Who is the lead vocalist of the rock band Aerosmith?",
         "answer1": "Steven Tyler",
         "answer2": "Joe Perry",
@@ -312,6 +351,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "What is the real name of the rapper Nicki Minaj?",
         "answer1": "Onika Maraj",
         "answer2": "Robyn Fenty",
@@ -320,6 +360,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Which male artist released the album 'Dark Side of the Moon'?",
         "answer1": "David Bowie",
         "answer2": "Roger Waters",
@@ -328,6 +369,7 @@
         "correct_answer": 2
     },
     {
+        "category": "music",
         "question": "What is the real name of the rapper Kanye West?",
         "answer1": "Kanye West",
         "answer2": "Sean Combs",
@@ -336,6 +378,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Who released the album 'Jazz' in 1978?",
         "answer1": "Queen",
         "answer2": "Led Zeppelin",
@@ -344,6 +387,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "What is the real name of the rapper Lil Wayne?",
         "answer1": "Dwayne Carter",
         "answer2": "Aubrey Graham",
@@ -352,6 +396,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Which female artist is known for hits like 'I Will Always Love You' and 'I Wanna Dance with Somebody'?",
         "answer1": "Mariah Carey",
         "answer2": "Celine Dion",
@@ -360,6 +405,7 @@
         "correct_answer": 3
     },
     {
+        "category": "music",
         "question": "Who is known as the 'Hardest-Working Man in Show Business'?",
         "answer1": "Marvin Gaye",
         "answer2": "James Brown",
@@ -368,6 +414,7 @@
         "correct_answer": 2
     },
     {
+        "category": "music",
         "question": "In which year did John Lennon release the album 'Imagine'?",
         "answer1": "1971",
         "answer2": "1973",
@@ -376,6 +423,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "Who is known for hits like 'Born in the U.S.A.' and 'Dancing in the Dark'?",
         "answer1": "Bruce Springsteen",
         "answer2": "Bob Dylan",
@@ -384,6 +432,7 @@
         "correct_answer": 1
     },
     {
+        "category": "music",
         "question": "What heavy rock festival takes place every year at Donnington Park?",
         "answer1": "Rock im Park",
         "answer2": "Tomorrowland",
@@ -392,6 +441,7 @@
         "correct_answer": 3
     },
     {
+        "category": "music",
         "question": "Which rapper performed upside down at the Super Bowl LVI halftime show?",
         "answer1": "Eminem",
         "answer2": "Snoop Dogg",

@@ -1,5 +1,6 @@
 [
     {
+        "category": "Technology",
         "question": "Who is the co-founder of Microsoft Corporation?",
         "answer1": "Steve Jobs",
         "answer2": "Bill Gates",
@@ -8,6 +9,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "What does CPU stand for?",
         "answer1": "Central Processing Unit",
         "answer2": "Computer Personal Unit",
@@ -16,6 +18,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Technology",
         "question": "In computer science, what does the acronym 'HTML' stand for?",
         "answer1": "HyperText Markup Language",
         "answer2": "Hyperlink and Text Markup Language",
@@ -24,6 +27,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Technology",
         "question": "Who is known as the 'Father of the World Wide Web'?",
         "answer1": "Bill Gates",
         "answer2": "Tim Berners-Lee",
@@ -32,6 +36,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "What is the programming language developed by Apple for iOS and macOS app development?",
         "answer1": "Java",
         "answer2": "Swift",
@@ -40,6 +45,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "Which company developed the first commercially successful personal computer?",
         "answer1": "IBM",
         "answer2": "Microsoft",
@@ -48,6 +54,7 @@
         "correct_answer": 4
     },
     {
+        "category": "Technology",
         "question": "What is the term for a malicious software that is designed to cause damage to a computer system?",
         "answer1": "Virus",
         "answer2": "Trojan Horse",
@@ -56,6 +63,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Technology",
         "question": "In computer networking, what does the acronym 'LAN' stand for?",
         "answer1": "Local Access Network",
         "answer2": "Long Area Network",
@@ -64,6 +72,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "Which tech company is known for its search engine?",
         "answer1": "Microsoft",
         "answer2": "Apple",
@@ -72,6 +81,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "What is the primary function of the Python programming language?",
         "answer1": "Web development",
         "answer2": "Artificial Intelligence",
@@ -80,6 +90,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "Which programming language is commonly used for building web applications?",
         "answer1": "Java",
         "answer2": "Ruby",
@@ -88,6 +99,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "Who is the CEO of Tesla, Inc.?",
         "answer1": "Bill Gates",
         "answer2": "Jeff Bezos",
@@ -96,6 +108,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "What is the term for a set of rules governing the exchange or transmission of data between devices?",
         "answer1": "Protocol",
         "answer2": "Algorithm",
@@ -104,6 +117,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Technology",
         "question": "Which social media platform was founded by Mark Zuckerberg in 2004?",
         "answer1": "Twitter",
         "answer2": "Instagram",
@@ -112,6 +126,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "What is the name of the humanoid robot developed by Boston Dynamics?",
         "answer1": "C-3PO",
         "answer2": "RoboCop",
@@ -120,6 +135,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "In computer storage, what does the acronym 'SSD' stand for?",
         "answer1": "Solid State Drive",
         "answer2": "Super Speed Disk",
@@ -128,6 +144,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Technology",
         "question": "What does the acronym 'URL' stand for?",
         "answer1": "Uniform Resource Locator",
         "answer2": "Universal Resource Locator",
@@ -136,6 +153,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Technology",
         "question": "Which tech company produces the iPhone?",
         "answer1": "Samsung",
         "answer2": "Apple",
@@ -144,6 +162,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "What is the term for a software program that replicates itself and spreads to other computers?",
         "answer1": "Spyware",
         "answer2": "Virus",
@@ -152,6 +171,7 @@
         "correct_answer": 4
     },
     {
+        "category": "Technology",
         "question": "Who is the co-founder of Apple Inc. alongside Steve Jobs?",
         "answer1": "Tim Cook",
         "answer2": "Steve Wozniak",
@@ -160,6 +180,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "Which programming language is often used for data analysis and machine learning?",
         "answer1": "Java",
         "answer2": "Python",
@@ -168,6 +189,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "What is the name of the virtual assistant developed by Amazon?",
         "answer1": "Cortana",
         "answer2": "Siri",
@@ -176,6 +198,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "In computer graphics, what does the acronym 'GPU' stand for?",
         "answer1": "General Processing Unit",
         "answer2": "Graphics Processing Unit",
@@ -184,6 +207,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "Who is the founder of SpaceX and Tesla?",
         "answer1": "Jeff Bezos",
         "answer2": "Elon Musk",
@@ -192,6 +216,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "What is the programming language commonly used for developing Android applications?",
         "answer1": "Swift",
         "answer2": "Java",
@@ -200,6 +225,7 @@
         "correct_answer": 4
     },
     {
+        "category": "Technology",
         "question": "Which company is known for its series of gaming consoles, including PlayStation 5?",
         "answer1": "Microsoft",
         "answer2": "Nintendo",
@@ -208,6 +234,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "What is the term for a type of computer memory that retains its contents even when the power is turned off?",
         "answer1": "RAM",
         "answer2": "ROM",
@@ -216,6 +243,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "Who is the CEO of Amazon?",
         "answer1": "Tim Cook",
         "answer2": "Elon Musk",
@@ -224,6 +252,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "What does the acronym 'AI' stand for in the context of computer science?",
         "answer1": "Automated Intelligence",
         "answer2": "Artificial Intelligence",
@@ -232,6 +261,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "In the context of internet security, what does the term 'phishing' refer to?",
         "answer1": "A type of malware",
         "answer2": "An email scam",
@@ -240,6 +270,7 @@
         "correct_answer": 4
     },
     {
+        "category": "Technology",
         "question": "Which company developed the first commercially available computer mouse?",
         "answer1": "Microsoft",
         "answer2": "IBM",
@@ -248,6 +279,7 @@
         "correct_answer": 4
     },
     {
+        "category": "Technology",
         "question": "What is the term for the process of converting information or data into a code to prevent unauthorized access?",
         "answer1": "Encryption",
         "answer2": "Decryption",
@@ -256,6 +288,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Technology",
         "question": "Which programming language is commonly used for building dynamic web pages?",
         "answer1": "HTML",
         "answer2": "CSS",
@@ -264,6 +297,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "What is the name of the open-source operating system based on the Linux kernel, often used for smartphones?",
         "answer1": "iOS",
         "answer2": "Android",
@@ -272,6 +306,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "Which company is known for its graphics processing units (GPUs) used in gaming and professional markets?",
         "answer1": "AMD",
         "answer2": "NVIDIA",
@@ -280,6 +315,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "What is the term for a network of physical devices embedded with sensors, software, and connectivity to collect and exchange data?",
         "answer1": "Blockchain",
         "answer2": "Internet of Things (IoT)",
@@ -288,6 +324,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "Who is the co-founder of Twitter?",
         "answer1": "Mark Zuckerberg",
         "answer2": "Elon Musk",
@@ -296,6 +333,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "In computer graphics, what does the term '3D rendering' refer to?",
         "answer1": "Creating lifelike images from 2D models",
         "answer2": "Generating holographic displays",
@@ -304,6 +342,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Technology",
         "question": "What is the primary function of a firewall in network security?",
         "answer1": "Virus detection",
         "answer2": "Data encryption",
@@ -312,6 +351,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "Which technology is used to transmit data wirelessly over short distances between devices such as smartphones and laptops?",
         "answer1": "Bluetooth",
         "answer2": "NFC",
@@ -320,6 +360,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Technology",
         "question": "What is the name of the virtual currency that uses cryptography for security and operates on a decentralized network?",
         "answer1": "Dollar",
         "answer2": "Bitcoin",
@@ -328,6 +369,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "Which company developed the first commercially successful microprocessor?",
         "answer1": "Intel",
         "answer2": "AMD",
@@ -336,6 +378,7 @@
         "correct_answer": 1
     },
     {
+        "category": "Technology",
         "question": "What is the term for a software program that simulates a human-like conversation through text or voice interactions?",
         "answer1": "Robot",
         "answer2": "Android",
@@ -344,6 +387,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "Which technology is used to store data on a magnetic strip on cards, such as credit or debit cards?",
         "answer1": "RFID",
         "answer2": "Barcodes",
@@ -352,6 +396,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "What is the name of the programming language created by Apple for iOS and macOS development?",
         "answer1": "Java",
         "answer2": "Swift",
@@ -360,6 +405,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "In computer networking, what does the term 'WAN' stand for?",
         "answer1": "Wireless Area Network",
         "answer2": "Wide Area Network",
@@ -368,6 +414,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "Which company is known for its antivirus software products?",
         "answer1": "Microsoft",
         "answer2": "Symantec",
@@ -376,6 +423,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "What is the term for a computer program that replicates itself and spreads to other computers over a network?",
         "answer1": "Virus",
         "answer2": "Trojan Horse",
@@ -384,6 +432,7 @@
         "correct_answer": 3
     },
     {
+        "category": "Technology",
         "question": "Which programming language is widely used for developing machine learning applications?",
         "answer1": "Java",
         "answer2": "Python",
@@ -392,6 +441,7 @@
         "correct_answer": 2
     },
     {
+        "category": "Technology",
         "question": "In computer hardware, what does the acronym 'CPU' stand for?",
         "answer1": "Central Processing Unit",
         "answer2": "Computer Personal Unit",
