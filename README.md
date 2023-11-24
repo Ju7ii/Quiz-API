@@ -34,12 +34,12 @@ To create a new category, you just need to create a JSON file with the following
 ```
 [
     {
-        "question": "What is the main ingredient in guacamole?",
-        "answer1": "Tomatoes",
-        "answer2": "Avocado",
-        "answer3": "Onions",
-        "answer4": "Cilantro",
-        "correct_answer": 2
+        "question": "YOUR_QUIZ_QUESTION",
+        "answer1": "ANSWER_1",
+        "answer2": "ANSWER_2",
+        "answer3": "ANSWER_3",
+        "answer4": "ANSWER_4",
+        "correct_answer": NUMBER (1, 2, 3, 4)
     }
 ]
 ```
