@@ -1,6 +1,12 @@
 //* IMPORT EXPRESS
 const express = require('express');
 const app = express();
+const cors = require('cors');
+
+app.use(cors({
+    origin: '*',
+    methods: 'GET',
+}));
 
 //* MIDDLEWARE FOR HANDLING JSON REQUESTS
 app.use(express.json());
