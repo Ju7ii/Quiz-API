@@ -6,7 +6,6 @@ const cors = require('cors');
 app.use(cors({
     origin: '*',
     methods: 'GET',
-    credentials: true,
 }));
 
 //* MIDDLEWARE FOR HANDLING JSON REQUESTS
