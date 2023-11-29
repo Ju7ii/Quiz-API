@@ -147,8 +147,9 @@ https://quiz-ofe1.onrender.com
   "message": "success",
   "data": [
     {
-      "id": 1,
-      "question": "What is the main ingredient in guacamole?",
+      "id": 25,
+      "category": "food",
+      "question": "What is the primary ingredient in the traditional Mexican dish 'guacamole'?",
       "answer1": "Tomatoes",
       "answer2": "Avocado",
       "answer3": "Onions",
@@ -156,34 +157,68 @@ https://quiz-ofe1.onrender.com
       "correct_answer": 2
     },
     {
+      "id": 23,
+      "category": "food",
+      "question": "What is the traditional Japanese soup made with miso paste and dashi broth?",
+      "answer1": "Ramen",
+      "answer2": "Udon",
+      "answer3": "Soba",
+      "answer4": "Miso soup",
+      "correct_answer": 4
+    },
+    {
+      "id": 15,
+      "category": "food",
+      "question": "Which country is known for its traditional dish 'poutine,' consisting of fries topped with cheese curds and gravy?",
+      "answer1": "Italy",
+      "answer2": "Canada",
+      "answer3": "France",
+      "answer4": "United States",
+      "correct_answer": 2
+    },
+    {
       "id": 2,
+      "category": "food",
+      "question": "What is the main ingredient in the Indian dish 'dal makhani'?",
+      "answer1": "Lentils",
+      "answer2": "Chickpeas",
+      "answer3": "Rice",
+      "answer4": "Potatoes",
+      "correct_answer": 1
+    },
+    {
+      "id": 35,
+      "category": "food",
+      "question": "What is the traditional Brazilian dish made with black beans, pork, and sausage, usually served with rice?",
+      "answer1": "Feijoada",
+      "answer2": "Churrasco",
+      "answer3": "Moqueca",
+      "answer4": "Coxinha",
+      "correct_answer": 1
+    },
+    {
+      "id": 26,
+      "category": "food",
       "question": "Which type of pasta is shaped like small rice grains?",
       "answer1": "Fusilli",
       "answer2": "Orzo",
-      "answer3": "Pennerigoni",
+      "answer3": "Cavatelli",
       "answer4": "Farfalle",
       "correct_answer": 2
     },
     {
-      "id": 3,
-      "question": "Which Italian city is famous for its prosciutto and Parmesan cheese?",
-      "answer1": "Milan",
-      "answer2": "Rome",
-      "answer3": "Bologna",
-      "answer4": "Naples",
-      "correct_answer": 3
-    },
-    {
-      "id": 4,
-      "question": "What is the name of the traditional Scottish dish made from sheep's stomach stuffed with minced meat and oats?",
-      "answer1": "Haggis",
-      "answer2": "Black Pudding",
-      "answer3": "Scotch Egg",
-      "answer4": "Neeps and Tatties",
+      "id": 34,
+      "category": "food",
+      "question": "Which spice is often used in Indian cuisine and is known for its warm, earthy flavor?",
+      "answer1": "Cumin",
+      "answer2": "Coriander",
+      "answer3": "Cardamom",
+      "answer4": "Turmeric",
       "correct_answer": 1
     },
     {
       "id": 5,
+      "category": "food",
       "question": "Which nut is used to make marzipan?",
       "answer1": "Peanut",
       "answer2": "Almond",
@@ -193,6 +228,7 @@ https://quiz-ofe1.onrender.com
     },
     {
       "id": 6,
+      "category": "food",
       "question": "What is the national dish of Japan?",
       "answer1": "Sushi",
       "answer2": "Ramen",
@@ -201,41 +237,16 @@ https://quiz-ofe1.onrender.com
       "correct_answer": 1
     },
     {
-      "id": 7,
-      "question": "Which country is famous for its spicy cuisine, including dishes like kimchi and bulgogi?",
-      "answer1": "China",
-      "answer2": "Japan",
-      "answer3": "South Korea",
-      "answer4": "Thailand",
+      "id": 3,
+      "category": "food",
+      "question": "Which Italian city is famous for its prosciutto and Parmesan cheese?",
+      "answer1": "Milan",
+      "answer2": "Rome",
+      "answer3": "Bologna",
+      "answer4": "Naples",
       "correct_answer": 3
-    },
-    {
-      "id": 8,
-      "question": "What is the main ingredient in the Mexican dish 'chiles en nogada'?",
-      "answer1": "Chicken",
-      "answer2": "Pork",
-      "answer3": "Beef",
-      "answer4": "Poblano peppers",
-      "correct_answer": 4
-    },
-    {
-      "id": 9,
-      "question": "Which spice is derived from the Crocus sativus flower and is known for its vibrant color?",
-      "answer1": "Turmeric",
-      "answer2": "Cumin",
-      "answer3": "Saffron",
-      "answer4": "Paprika",
-      "correct_answer": 3
-    },
-    {
-      "id": 10,
-      "question": "What is the main ingredient in the Middle Eastern dish 'hummus'?",
-      "answer1": "Chickpeas",
-      "answer2": "Lentils",
-      "answer3": "Black beans",
-      "answer4": "Kidney beans",
-      "correct_answer": 1
     }
+  ]
 }
 ```
 </details>
