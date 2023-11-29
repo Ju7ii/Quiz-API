@@ -34,6 +34,7 @@ To create a new category, you just need to create a JSON file with the following
 ```
 [
     {
+        "category": "YOUR_CATEGORY",
         "question": "YOUR_QUIZ_QUESTION",
         "answer1": "ANSWER_1",
         "answer2": "ANSWER_2",
