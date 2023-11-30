@@ -33,7 +33,7 @@ class CategoryRouteHandler {
             console.log(`Handling request for /api/${this.category}`);
 
             //* SQL QUERY
-            const sqlStatement = `SELECT * FROM ${this.category}_quiz_questions ORDER BY RANDOM() LIMIT 10`;
+            const sqlStatement = `SELECT DISTINCT * FROM ${this.category}_quiz_questions ORDER BY RANDOM() LIMIT 10`;
             const parameter = [];
 
             //* EXECUTE QUERY
