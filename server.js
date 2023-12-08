@@ -46,7 +46,7 @@ class CategoryRouteHandler {
                 }
 
                 //* SUCCESS -> SEND BACK DATA
-                response.json({
+                response.status(200).json({
                     message: 'success',
                     data: rows,
                 });
@@ -72,7 +72,7 @@ class CategoryRouteHandler {
                     if (index >= tables.length) {
                         const totalTables = tables.length;
 
-                        response.json({
+                        response.status(200).json({
                             message: 'success',
                             total_tables: totalTables,
                             total_entries: totalEntries,
@@ -118,7 +118,7 @@ initializeDatabases()
                 app.use((request, response) => {
                     console.error(`404 - Route not found: ${request.originalUrl}`);
                     response.status(404).json({
-                        message: 'ERROR: something went wrong!',
+                        message: 'ERROR: The requested end point does not exist',
                     });
                 });
 
@@ -136,5 +136,5 @@ initializeDatabases()
 
 //* TEST GET ROUTE FOR DATABASE STATUS
 app.get('/api/test-database', (request, response) => {
-    response.json({ message: 'Database is up!' });
+    response.status(200).json({ message: 'Database is up!' });
 });
