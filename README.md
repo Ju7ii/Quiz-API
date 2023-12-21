@@ -129,18 +129,18 @@ https://quiz-ofe1.onrender.com
 
 | **Method** | **URL** | **Description** |
 | :-------- | :------- | :------------------------- |
-| `GET` | `/api/food` | Gives back data from the requestet category |
-| `GET` | `/api/geography` | Gives back data from the requestet category |
-| `GET` | `/api/history` | Gives back data from the requestet category |
-| `GET` | `/api/music` | Gives back data from the requestet category |
-| `GET` | `/api/science` | Gives back data from the requestet category |
-| `GET` | `/api/space` | Gives back data from the requestet category |
-| `GET` | `/api/sports` | Gives back data from the requestet category |
-| `GET` | `/api/technology` | Gives back data from the requestet category |
+| `GET` | `/api/food` | Gives back data from the food category |
+| `GET` | `/api/geography` | Gives back data from the geography category |
+| `GET` | `/api/history` | Gives back data from the history category |
+| `GET` | `/api/music` | Gives back data from the music category |
+| `GET` | `/api/science` | Gives back data from the science category |
+| `GET` | `/api/space` | Gives back data from the space category |
+| `GET` | `/api/sports` | Gives back data from the sports category |
+| `GET` | `/api/technology` | Gives back data from the technology category |
 
 <details>
   <summary>
-    <strong>Expected Response For Food Quiz</strong>
+    <strong>Expected sample response for the food quiz</strong>
   </summary>
   
 ```
