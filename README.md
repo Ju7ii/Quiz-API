@@ -14,7 +14,7 @@ JavaScript, NodeJS, Express.js
 SQLite
 
 ### Tools:
-Git/GitHub, ![Thunder Client](https://www.thunderclient.com/)
+Git/GitHub, Thunder Client
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
